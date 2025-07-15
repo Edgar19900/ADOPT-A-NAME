@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ADOPT A NAME</title>
+  <style>
+    @keyframes bounce {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-10px); }
+    }
+    body {
+      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+      padding: 2rem;
+      background: #fff;
+      text-align: center;
+      color: #111;
+    }
+    h1 {
+      margin-bottom: 2rem;
+      font-size: 2rem;
+    }
+    select, button {
+      padding: 0.5rem;
+      font-size: 1rem;
+      margin: 0.5rem;
+      border-radius: 0.5rem;
+      border: 1px solid #ddd;
+      background: #fafafa;
+      color: #111;
+    }
+    .name-result-container {
+      margin-top: 2rem;
+      font-size: 2rem;
+      font-weight: bold;
+      animation: bounce 0.5s ease;
+    }
+    .speak-button {
+      margin-left: 0.5rem;
+      cursor: pointer;
+      background: none;
+      border: none;
+      font-size: 1.5rem;
+    }
+    .meaning {
+      margin-top: 0.5rem;
+      font-size: 1rem;
+      font-style: italic;
+      color: #666;
+    }
+    .favorites {
+      margin-top: 2rem;
+      font-size: 1rem;
+    }
+    ul {
+      list-style-type: none;
+      padding: 0;
+    }
+    li {
+      margin: 0.3rem 0;
+    }
+  </style>
+</head>
+<body>
+  <h1>👶✨ ADOPT A NAME ✨👶</h1>
+
+  <select id="country">
+    <option value="us">🇺🇸</option>
+    <option value="fr">🇫🇷</option>
+    <option value="in">🇮🇳</option>
+    <option value="jp">🇯🇵</option>
+    <option value="br">🇧🇷</option>
+    <option value="it">🇮🇹</option>
+    <option value="de">🇩🇪</option>
+    <option value="mx">🇲🇽</option>
+  </select>
+
+  <select id="gender">
+    <option value="any">⚧️</option>
+    <option value="boy">👦</option>
+    <option value="girl">👧</option>
+  </select>
+
+  <button onclick="generateName()">🎲</button>
+  <button onclick="saveFavorite()">❤️</button>
+
+  <div class="name-result-container">
+    <span id="result"></span>
+    <button class="speak-button" onclick="speakName()">🔊</button>
+  </div>
+  <div class="meaning" id="meaning"></div>
+
+  <div class="favorites">
+    <ul id="favoritesList"></ul>
+  </div>
+
+  <audio id="popSound" src="https://www.myinstants.com/media/sounds/pop-up-off.mp3"></audio>
+
+  <script>
+    let currentName = "";
+    let currentMeaning = "";
+    const favorites = [];
+    let loadedNames = {};
+
+    async function generateName() {
+      const pop = document.getElementById("popSound");
+      const country = document.getElementById("country").value;
+      const gender = document.getElementById("gender").value;
+
+      try {
+        if (!loadedNames[country]) {
+          const fallback = {
+            boy: [
+              { name: "Alex", meaning: "Protector of humanity" },
+              { name: "Max", meaning: "Greatest" },
+              { name: "Leo", meaning: "Lion" }
+            ],
+            girl: [
+              { name: "Ella", meaning: "Light" },
+              { name: "Mia", meaning: "Mine" },
+              { name: "Zoe", meaning: "Life" }
+            ]
+          };
+
+          const response = await fetch(`${country}.json`);
+          if (!response.ok) {
+            console.warn(`Could not load ${country}.json, using fallback.`);
+            loadedNames[country] = fallback;
+          } else {
+            loadedNames[country] = await response.json();
+          }
+        }
+
+        const data = loadedNames[country];
+        let pool = [];
+
+        if (gender === "any") {
+          pool = [...(data.boy || []), ...(data.girl || [])];
+        } else {
+          pool = [...(data[gender] || [])];
+        }
+
+        if (pool.length === 0) {
+          document.getElementById("result").textContent = "No names available";
+          document.getElementById("meaning").textContent = "";
+          return;
+        }
+
+        const selected = pool[Math.floor(Math.random() * pool.length)];
+        currentName = selected?.name || "";
+        currentMeaning = selected?.meaning || "";
+
+        document.getElementById("result").textContent = currentName;
+        document.getElementById("meaning").textContent = currentMeaning;
+        pop.play();
+      } catch (error) {
+        document.getElementById("result").textContent = "Something went wrong.";
+        document.getElementById("meaning").textContent = "";
+        console.error(error);
+      }
+    }
+
+    function speakName() {
+      if (!currentName) return;
+      const utterance = new SpeechSynthesisUtterance(currentName);
+      const selectedLang = document.getElementById("country").value;
+      const voiceLangMap = {
+        us: "en-US",
+        fr: "fr-FR",
+        in: "en-IN",
+        jp: "ja-JP",
+        br: "pt-BR",
+        it: "it-IT",
+        de: "de-DE",
+        mx: "es-MX"
+      };
+      utterance.lang = voiceLangMap[selectedLang] || "en-US";
+      speechSynthesis.speak(utterance);
+    }
+
+    function saveFavorite() {
+      if (currentName && !favorites.includes(currentName)) {
+        favorites.push(currentName);
+        updateFavorites();
+      }
+    }
+
+    function updateFavorites() {
+      const list = document.getElementById("favoritesList");
+      list.innerHTML = "";
+      favorites.forEach(name => {
+        const li = document.createElement("li");
+        li.textContent = name;
+        list.appendChild(li);
+      });
+    }
+  </script>
+</body>
+</html>
