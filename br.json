@@ -1,0 +1,4006 @@
+{
+  "boy": [
+    {
+      "name": "DaRo",
+      "meaning": "Meaning of JoMiEl"
+    },
+    {
+      "name": "LuTi",
+      "meaning": "Meaning of LuMi"
+    },
+    {
+      "name": "LuLi",
+      "meaning": "Meaning of DaRa"
+    },
+    {
+      "name": "KaJoNa",
+      "meaning": "Meaning of MiZi"
+    },
+    {
+      "name": "ViMe",
+      "meaning": "Meaning of NaRoJo"
+    },
+    {
+      "name": "MiVi",
+      "meaning": "Meaning of LiLiRa"
+    },
+    {
+      "name": "SoMeEl",
+      "meaning": "Meaning of SoZi"
+    },
+    {
+      "name": "LiJoRa",
+      "meaning": "Meaning of ElNa"
+    },
+    {
+      "name": "ElLuKa",
+      "meaning": "Meaning of KaLi"
+    },
+    {
+      "name": "KaElNa",
+      "meaning": "Meaning of TiDaEl"
+    },
+    {
+      "name": "LiMeZi",
+      "meaning": "Meaning of JoZiRa"
+    },
+    {
+      "name": "LuLiVi",
+      "meaning": "Meaning of MiLiJo"
+    },
+    {
+      "name": "JoZiJo",
+      "meaning": "Meaning of MiElTi"
+    },
+    {
+      "name": "ViSoLu",
+      "meaning": "Meaning of SoJoDa"
+    },
+    {
+      "name": "NaRaRo",
+      "meaning": "Meaning of MeLiRo"
+    },
+    {
+      "name": "DaZi",
+      "meaning": "Meaning of RaTi"
+    },
+    {
+      "name": "DaElMe",
+      "meaning": "Meaning of SoMiJo"
+    },
+    {
+      "name": "RaRoJo",
+      "meaning": "Meaning of DaJo"
+    },
+    {
+      "name": "RoJo",
+      "meaning": "Meaning of MeZi"
+    },
+    {
+      "name": "ViKa",
+      "meaning": "Meaning of DaZi"
+    },
+    {
+      "name": "ElDa",
+      "meaning": "Meaning of ElRoNa"
+    },
+    {
+      "name": "RoElZi",
+      "meaning": "Meaning of RaDaMi"
+    },
+    {
+      "name": "SoTi",
+      "meaning": "Meaning of ElKaZi"
+    },
+    {
+      "name": "ZiElNa",
+      "meaning": "Meaning of LiLi"
+    },
+    {
+      "name": "ZiDa",
+      "meaning": "Meaning of MiMeRo"
+    },
+    {
+      "name": "JoKa",
+      "meaning": "Meaning of MiJo"
+    },
+    {
+      "name": "MiLuDa",
+      "meaning": "Meaning of LuKaRa"
+    },
+    {
+      "name": "RoMi",
+      "meaning": "Meaning of KaJo"
+    },
+    {
+      "name": "LuLuRa",
+      "meaning": "Meaning of JoViJo"
+    },
+    {
+      "name": "JoMe",
+      "meaning": "Meaning of KaJoRo"
+    },
+    {
+      "name": "RaTiLu",
+      "meaning": "Meaning of KaLi"
+    },
+    {
+      "name": "TiTi",
+      "meaning": "Meaning of DaEl"
+    },
+    {
+      "name": "LiSo",
+      "meaning": "Meaning of LuNaEl"
+    },
+    {
+      "name": "NaDaNa",
+      "meaning": "Meaning of ZiRa"
+    },
+    {
+      "name": "JoSoVi",
+      "meaning": "Meaning of KaViKa"
+    },
+    {
+      "name": "JoZi",
+      "meaning": "Meaning of DaLu"
+    },
+    {
+      "name": "JoSoMe",
+      "meaning": "Meaning of LiMeJo"
+    },
+    {
+      "name": "MeElRo",
+      "meaning": "Meaning of KaElJo"
+    },
+    {
+      "name": "JoRo",
+      "meaning": "Meaning of ViMeZi"
+    },
+    {
+      "name": "MeJoMi",
+      "meaning": "Meaning of NaSo"
+    },
+    {
+      "name": "DaZi",
+      "meaning": "Meaning of ZiRa"
+    },
+    {
+      "name": "TiRaMi",
+      "meaning": "Meaning of KaJoVi"
+    },
+    {
+      "name": "ViLu",
+      "meaning": "Meaning of MeLi"
+    },
+    {
+      "name": "ViZi",
+      "meaning": "Meaning of RoZi"
+    },
+    {
+      "name": "LuMe",
+      "meaning": "Meaning of MiEl"
+    },
+    {
+      "name": "DaMe",
+      "meaning": "Meaning of ZiSo"
+    },
+    {
+      "name": "DaSoRo",
+      "meaning": "Meaning of SoJoSo"
+    },
+    {
+      "name": "RoZiRa",
+      "meaning": "Meaning of LiViTi"
+    },
+    {
+      "name": "NaVi",
+      "meaning": "Meaning of ZiLuRo"
+    },
+    {
+      "name": "TiSoLu",
+      "meaning": "Meaning of LuKaNa"
+    },
+    {
+      "name": "MiDa",
+      "meaning": "Meaning of DaSoJo"
+    },
+    {
+      "name": "RoZiMi",
+      "meaning": "Meaning of RoTiZi"
+    },
+    {
+      "name": "SoLuVi",
+      "meaning": "Meaning of RoJo"
+    },
+    {
+      "name": "NaSoVi",
+      "meaning": "Meaning of LuDa"
+    },
+    {
+      "name": "NaRoLi",
+      "meaning": "Meaning of ZiZiKa"
+    },
+    {
+      "name": "ViMiMe",
+      "meaning": "Meaning of SoLiKa"
+    },
+    {
+      "name": "NaDaSo",
+      "meaning": "Meaning of LiSo"
+    },
+    {
+      "name": "ElLi",
+      "meaning": "Meaning of ViElNa"
+    },
+    {
+      "name": "RaLuEl",
+      "meaning": "Meaning of LiSoVi"
+    },
+    {
+      "name": "TiKaLu",
+      "meaning": "Meaning of ElRo"
+    },
+    {
+      "name": "MiZi",
+      "meaning": "Meaning of DaJo"
+    },
+    {
+      "name": "RaLu",
+      "meaning": "Meaning of ViKa"
+    },
+    {
+      "name": "MeKaVi",
+      "meaning": "Meaning of MeKaSo"
+    },
+    {
+      "name": "DaMeRa",
+      "meaning": "Meaning of NaLi"
+    },
+    {
+      "name": "NaNa",
+      "meaning": "Meaning of RaLu"
+    },
+    {
+      "name": "ViJo",
+      "meaning": "Meaning of LuNa"
+    },
+    {
+      "name": "LiDaLi",
+      "meaning": "Meaning of RaNa"
+    },
+    {
+      "name": "TiTiMe",
+      "meaning": "Meaning of SoTiLu"
+    },
+    {
+      "name": "LuDa",
+      "meaning": "Meaning of JoSo"
+    },
+    {
+      "name": "JoLi",
+      "meaning": "Meaning of SoViKa"
+    },
+    {
+      "name": "MiKa",
+      "meaning": "Meaning of JoMe"
+    },
+    {
+      "name": "ViMi",
+      "meaning": "Meaning of ViMe"
+    },
+    {
+      "name": "ViRaLi",
+      "meaning": "Meaning of LiLi"
+    },
+    {
+      "name": "RoLi",
+      "meaning": "Meaning of KaMe"
+    },
+    {
+      "name": "RoMi",
+      "meaning": "Meaning of RoSo"
+    },
+    {
+      "name": "JoKa",
+      "meaning": "Meaning of JoRa"
+    },
+    {
+      "name": "NaSo",
+      "meaning": "Meaning of MeDaLu"
+    },
+    {
+      "name": "DaSoMi",
+      "meaning": "Meaning of ViMeZi"
+    },
+    {
+      "name": "ZiLu",
+      "meaning": "Meaning of ViTi"
+    },
+    {
+      "name": "DaLiSo",
+      "meaning": "Meaning of LuRoDa"
+    },
+    {
+      "name": "TiZiMi",
+      "meaning": "Meaning of TiJoLu"
+    },
+    {
+      "name": "ElLu",
+      "meaning": "Meaning of SoZi"
+    },
+    {
+      "name": "RaLu",
+      "meaning": "Meaning of DaSoLu"
+    },
+    {
+      "name": "NaVi",
+      "meaning": "Meaning of RaLu"
+    },
+    {
+      "name": "KaTiMi",
+      "meaning": "Meaning of JoTiDa"
+    },
+    {
+      "name": "MiMi",
+      "meaning": "Meaning of ZiSo"
+    },
+    {
+      "name": "TiSo",
+      "meaning": "Meaning of JoMe"
+    },
+    {
+      "name": "JoMi",
+      "meaning": "Meaning of ElMeNa"
+    },
+    {
+      "name": "MiTiZi",
+      "meaning": "Meaning of TiLi"
+    },
+    {
+      "name": "ViZiEl",
+      "meaning": "Meaning of DaEl"
+    },
+    {
+      "name": "JoNa",
+      "meaning": "Meaning of MeMe"
+    },
+    {
+      "name": "TiRoTi",
+      "meaning": "Meaning of ElSo"
+    },
+    {
+      "name": "LuRa",
+      "meaning": "Meaning of LuMeRo"
+    },
+    {
+      "name": "MeTiRo",
+      "meaning": "Meaning of ViDa"
+    },
+    {
+      "name": "DaZi",
+      "meaning": "Meaning of MeRo"
+    },
+    {
+      "name": "MiZi",
+      "meaning": "Meaning of TiKaEl"
+    },
+    {
+      "name": "KaMiRo",
+      "meaning": "Meaning of SoTiTi"
+    },
+    {
+      "name": "NaTiSo",
+      "meaning": "Meaning of KaDaMe"
+    },
+    {
+      "name": "DaNa",
+      "meaning": "Meaning of ElMi"
+    },
+    {
+      "name": "RaDaNa",
+      "meaning": "Meaning of MiVi"
+    },
+    {
+      "name": "MeMi",
+      "meaning": "Meaning of DaDaEl"
+    },
+    {
+      "name": "NaEl",
+      "meaning": "Meaning of SoDa"
+    },
+    {
+      "name": "DaRo",
+      "meaning": "Meaning of MeLuMe"
+    },
+    {
+      "name": "ElJoSo",
+      "meaning": "Meaning of LuTiMe"
+    },
+    {
+      "name": "TiRo",
+      "meaning": "Meaning of KaVi"
+    },
+    {
+      "name": "TiMi",
+      "meaning": "Meaning of KaTiSo"
+    },
+    {
+      "name": "MiRo",
+      "meaning": "Meaning of SoRo"
+    },
+    {
+      "name": "LuVi",
+      "meaning": "Meaning of JoRoLi"
+    },
+    {
+      "name": "ZiRo",
+      "meaning": "Meaning of RaLiRa"
+    },
+    {
+      "name": "ElTi",
+      "meaning": "Meaning of ViSoMe"
+    },
+    {
+      "name": "LuDa",
+      "meaning": "Meaning of LiZi"
+    },
+    {
+      "name": "RoDaTi",
+      "meaning": "Meaning of JoRoKa"
+    },
+    {
+      "name": "LiNa",
+      "meaning": "Meaning of JoTi"
+    },
+    {
+      "name": "JoKaRa",
+      "meaning": "Meaning of RaJoVi"
+    },
+    {
+      "name": "ViKaLu",
+      "meaning": "Meaning of SoMi"
+    },
+    {
+      "name": "RoZi",
+      "meaning": "Meaning of MiSo"
+    },
+    {
+      "name": "KaLiZi",
+      "meaning": "Meaning of SoVi"
+    },
+    {
+      "name": "KaTiTi",
+      "meaning": "Meaning of TiLiRo"
+    },
+    {
+      "name": "DaRaRo",
+      "meaning": "Meaning of NaElLi"
+    },
+    {
+      "name": "RaZiMe",
+      "meaning": "Meaning of LuJoLi"
+    },
+    {
+      "name": "TiMe",
+      "meaning": "Meaning of JoElJo"
+    },
+    {
+      "name": "RoSo",
+      "meaning": "Meaning of TiLiMe"
+    },
+    {
+      "name": "DaSo",
+      "meaning": "Meaning of DaLiRo"
+    },
+    {
+      "name": "LuDa",
+      "meaning": "Meaning of MiLi"
+    },
+    {
+      "name": "ViEl",
+      "meaning": "Meaning of ElRa"
+    },
+    {
+      "name": "DaKa",
+      "meaning": "Meaning of MeLi"
+    },
+    {
+      "name": "LiElDa",
+      "meaning": "Meaning of RaElDa"
+    },
+    {
+      "name": "MiNa",
+      "meaning": "Meaning of TiTiSo"
+    },
+    {
+      "name": "JoTiSo",
+      "meaning": "Meaning of KaRaMe"
+    },
+    {
+      "name": "ZiLu",
+      "meaning": "Meaning of TiRoKa"
+    },
+    {
+      "name": "TiRa",
+      "meaning": "Meaning of RoVi"
+    },
+    {
+      "name": "NaJoJo",
+      "meaning": "Meaning of RaNa"
+    },
+    {
+      "name": "DaMiRo",
+      "meaning": "Meaning of ZiMeTi"
+    },
+    {
+      "name": "KaRo",
+      "meaning": "Meaning of TiElRo"
+    },
+    {
+      "name": "ViZiLi",
+      "meaning": "Meaning of KaNa"
+    },
+    {
+      "name": "JoKaTi",
+      "meaning": "Meaning of MeViTi"
+    },
+    {
+      "name": "ZiRaLi",
+      "meaning": "Meaning of DaKaLu"
+    },
+    {
+      "name": "MiMeEl",
+      "meaning": "Meaning of MiElKa"
+    },
+    {
+      "name": "ZiEl",
+      "meaning": "Meaning of MeSo"
+    },
+    {
+      "name": "ElLu",
+      "meaning": "Meaning of RoLiSo"
+    },
+    {
+      "name": "DaRoVi",
+      "meaning": "Meaning of LiZi"
+    },
+    {
+      "name": "SoSo",
+      "meaning": "Meaning of LiRoMe"
+    },
+    {
+      "name": "DaJo",
+      "meaning": "Meaning of RaLi"
+    },
+    {
+      "name": "RaZiMe",
+      "meaning": "Meaning of MeSo"
+    },
+    {
+      "name": "NaVi",
+      "meaning": "Meaning of LuNaRa"
+    },
+    {
+      "name": "ZiRoDa",
+      "meaning": "Meaning of NaKaEl"
+    },
+    {
+      "name": "MeVi",
+      "meaning": "Meaning of ElJo"
+    },
+    {
+      "name": "RaMe",
+      "meaning": "Meaning of LiMiLu"
+    },
+    {
+      "name": "ElTiKa",
+      "meaning": "Meaning of RoLiTi"
+    },
+    {
+      "name": "LuLiMe",
+      "meaning": "Meaning of TiDa"
+    },
+    {
+      "name": "ElVi",
+      "meaning": "Meaning of KaRa"
+    },
+    {
+      "name": "DaZi",
+      "meaning": "Meaning of RaJo"
+    },
+    {
+      "name": "MeRaRo",
+      "meaning": "Meaning of LiRo"
+    },
+    {
+      "name": "ElSoVi",
+      "meaning": "Meaning of RaZi"
+    },
+    {
+      "name": "SoVi",
+      "meaning": "Meaning of NaZi"
+    },
+    {
+      "name": "TiVi",
+      "meaning": "Meaning of MeRo"
+    },
+    {
+      "name": "RoNa",
+      "meaning": "Meaning of ElMiRa"
+    },
+    {
+      "name": "SoNa",
+      "meaning": "Meaning of RoViZi"
+    },
+    {
+      "name": "DaRa",
+      "meaning": "Meaning of ZiRoVi"
+    },
+    {
+      "name": "LiZi",
+      "meaning": "Meaning of RoMe"
+    },
+    {
+      "name": "DaMi",
+      "meaning": "Meaning of DaMe"
+    },
+    {
+      "name": "LiZi",
+      "meaning": "Meaning of RoEl"
+    },
+    {
+      "name": "RoJoLi",
+      "meaning": "Meaning of SoKaLu"
+    },
+    {
+      "name": "TiKaMe",
+      "meaning": "Meaning of DaLiJo"
+    },
+    {
+      "name": "TiZiRo",
+      "meaning": "Meaning of RoKaNa"
+    },
+    {
+      "name": "KaLuMi",
+      "meaning": "Meaning of SoNaZi"
+    },
+    {
+      "name": "KaRo",
+      "meaning": "Meaning of LiLi"
+    },
+    {
+      "name": "ElMiKa",
+      "meaning": "Meaning of ViRa"
+    },
+    {
+      "name": "LuJo",
+      "meaning": "Meaning of LiLi"
+    },
+    {
+      "name": "ViNaVi",
+      "meaning": "Meaning of TiLiDa"
+    },
+    {
+      "name": "DaKa",
+      "meaning": "Meaning of LiSoMe"
+    },
+    {
+      "name": "ZiDa",
+      "meaning": "Meaning of LuMiMe"
+    },
+    {
+      "name": "KaMe",
+      "meaning": "Meaning of TiJoRa"
+    },
+    {
+      "name": "TiTiKa",
+      "meaning": "Meaning of ZiElEl"
+    },
+    {
+      "name": "SoKaMi",
+      "meaning": "Meaning of ZiKa"
+    },
+    {
+      "name": "MiSo",
+      "meaning": "Meaning of ZiMi"
+    },
+    {
+      "name": "NaLi",
+      "meaning": "Meaning of LiMiMe"
+    },
+    {
+      "name": "LuMe",
+      "meaning": "Meaning of LuKa"
+    },
+    {
+      "name": "LiElKa",
+      "meaning": "Meaning of LiKaVi"
+    },
+    {
+      "name": "TiLi",
+      "meaning": "Meaning of TiZi"
+    },
+    {
+      "name": "MiLiNa",
+      "meaning": "Meaning of NaElDa"
+    },
+    {
+      "name": "RoJo",
+      "meaning": "Meaning of SoViJo"
+    },
+    {
+      "name": "SoDa",
+      "meaning": "Meaning of ElRo"
+    },
+    {
+      "name": "LuRo",
+      "meaning": "Meaning of KaMi"
+    },
+    {
+      "name": "DaLu",
+      "meaning": "Meaning of TiLiEl"
+    },
+    {
+      "name": "LiNa",
+      "meaning": "Meaning of MeElDa"
+    },
+    {
+      "name": "NaRoZi",
+      "meaning": "Meaning of KaMe"
+    },
+    {
+      "name": "MiElNa",
+      "meaning": "Meaning of LiKa"
+    },
+    {
+      "name": "RaVi",
+      "meaning": "Meaning of MeRoEl"
+    },
+    {
+      "name": "SoMiRa",
+      "meaning": "Meaning of MeKaMe"
+    },
+    {
+      "name": "DaElLu",
+      "meaning": "Meaning of RaMi"
+    },
+    {
+      "name": "SoDaVi",
+      "meaning": "Meaning of ElZiLi"
+    },
+    {
+      "name": "LuElTi",
+      "meaning": "Meaning of LiNaMi"
+    },
+    {
+      "name": "DaRaSo",
+      "meaning": "Meaning of RaZi"
+    },
+    {
+      "name": "SoZi",
+      "meaning": "Meaning of JoRo"
+    },
+    {
+      "name": "SoRa",
+      "meaning": "Meaning of ViMe"
+    },
+    {
+      "name": "ViRaNa",
+      "meaning": "Meaning of MiTi"
+    },
+    {
+      "name": "RoJoRo",
+      "meaning": "Meaning of JoElEl"
+    },
+    {
+      "name": "LuElJo",
+      "meaning": "Meaning of MiJoNa"
+    },
+    {
+      "name": "JoRo",
+      "meaning": "Meaning of NaNa"
+    },
+    {
+      "name": "DaRoLi",
+      "meaning": "Meaning of ElNaMi"
+    },
+    {
+      "name": "MeSo",
+      "meaning": "Meaning of DaMe"
+    },
+    {
+      "name": "ZiEl",
+      "meaning": "Meaning of JoZiRa"
+    },
+    {
+      "name": "TiRaEl",
+      "meaning": "Meaning of KaSoTi"
+    },
+    {
+      "name": "RoDa",
+      "meaning": "Meaning of MeElRo"
+    },
+    {
+      "name": "ZiJo",
+      "meaning": "Meaning of NaLiDa"
+    },
+    {
+      "name": "ElViEl",
+      "meaning": "Meaning of RoDaJo"
+    },
+    {
+      "name": "LuRo",
+      "meaning": "Meaning of RaZiEl"
+    },
+    {
+      "name": "TiDa",
+      "meaning": "Meaning of MeKa"
+    },
+    {
+      "name": "LuRa",
+      "meaning": "Meaning of NaSoDa"
+    },
+    {
+      "name": "ElLuSo",
+      "meaning": "Meaning of DaRo"
+    },
+    {
+      "name": "LuTiRo",
+      "meaning": "Meaning of RaSo"
+    },
+    {
+      "name": "ViMi",
+      "meaning": "Meaning of ZiZiRo"
+    },
+    {
+      "name": "ZiRaMi",
+      "meaning": "Meaning of RaNaLu"
+    },
+    {
+      "name": "LiKa",
+      "meaning": "Meaning of RoZi"
+    },
+    {
+      "name": "ViMi",
+      "meaning": "Meaning of NaTi"
+    },
+    {
+      "name": "ElRoEl",
+      "meaning": "Meaning of RaZiSo"
+    },
+    {
+      "name": "MiRa",
+      "meaning": "Meaning of RaRo"
+    },
+    {
+      "name": "NaSo",
+      "meaning": "Meaning of TiMe"
+    },
+    {
+      "name": "ViEl",
+      "meaning": "Meaning of MiLiMe"
+    },
+    {
+      "name": "ElElJo",
+      "meaning": "Meaning of ElLu"
+    },
+    {
+      "name": "KaJoKa",
+      "meaning": "Meaning of NaNaKa"
+    },
+    {
+      "name": "SoTiMi",
+      "meaning": "Meaning of KaMeRa"
+    },
+    {
+      "name": "ZiRo",
+      "meaning": "Meaning of SoLuMi"
+    },
+    {
+      "name": "RaDaDa",
+      "meaning": "Meaning of LiRaZi"
+    },
+    {
+      "name": "DaSo",
+      "meaning": "Meaning of DaElRo"
+    },
+    {
+      "name": "NaLi",
+      "meaning": "Meaning of JoDa"
+    },
+    {
+      "name": "JoZiMi",
+      "meaning": "Meaning of SoMi"
+    },
+    {
+      "name": "DaDa",
+      "meaning": "Meaning of KaSo"
+    },
+    {
+      "name": "ZiZi",
+      "meaning": "Meaning of MiElSo"
+    },
+    {
+      "name": "ViNa",
+      "meaning": "Meaning of ZiMiMi"
+    },
+    {
+      "name": "MeSoLu",
+      "meaning": "Meaning of MiViLi"
+    },
+    {
+      "name": "TiZi",
+      "meaning": "Meaning of RoDa"
+    },
+    {
+      "name": "TiRaZi",
+      "meaning": "Meaning of ZiVi"
+    },
+    {
+      "name": "ViLi",
+      "meaning": "Meaning of MiKaNa"
+    },
+    {
+      "name": "JoKa",
+      "meaning": "Meaning of NaSo"
+    },
+    {
+      "name": "RaZi",
+      "meaning": "Meaning of TiMi"
+    },
+    {
+      "name": "LuRaTi",
+      "meaning": "Meaning of RaMi"
+    },
+    {
+      "name": "ZiRoRo",
+      "meaning": "Meaning of JoSo"
+    },
+    {
+      "name": "ZiNa",
+      "meaning": "Meaning of LiKaLi"
+    },
+    {
+      "name": "ZiZiRo",
+      "meaning": "Meaning of LiLu"
+    },
+    {
+      "name": "ElJoTi",
+      "meaning": "Meaning of MeRaMi"
+    },
+    {
+      "name": "LiViJo",
+      "meaning": "Meaning of DaVi"
+    },
+    {
+      "name": "ViTi",
+      "meaning": "Meaning of SoSoVi"
+    },
+    {
+      "name": "KaDaEl",
+      "meaning": "Meaning of TiMi"
+    },
+    {
+      "name": "TiRaSo",
+      "meaning": "Meaning of SoMiNa"
+    },
+    {
+      "name": "RoSoZi",
+      "meaning": "Meaning of ElRaLu"
+    },
+    {
+      "name": "ZiViTi",
+      "meaning": "Meaning of JoVi"
+    },
+    {
+      "name": "ZiJoRo",
+      "meaning": "Meaning of RaMe"
+    },
+    {
+      "name": "JoMeLi",
+      "meaning": "Meaning of JoNa"
+    },
+    {
+      "name": "SoTi",
+      "meaning": "Meaning of MiDaLi"
+    },
+    {
+      "name": "MeZiMe",
+      "meaning": "Meaning of ElTiLi"
+    },
+    {
+      "name": "DaEl",
+      "meaning": "Meaning of TiEl"
+    },
+    {
+      "name": "LiJoZi",
+      "meaning": "Meaning of RoDaLu"
+    },
+    {
+      "name": "LuRoJo",
+      "meaning": "Meaning of ViKaTi"
+    },
+    {
+      "name": "DaJoMi",
+      "meaning": "Meaning of LuLu"
+    },
+    {
+      "name": "ZiLuVi",
+      "meaning": "Meaning of KaKaNa"
+    },
+    {
+      "name": "TiLiRa",
+      "meaning": "Meaning of LiDa"
+    },
+    {
+      "name": "ViDaRa",
+      "meaning": "Meaning of SoViEl"
+    },
+    {
+      "name": "LuJo",
+      "meaning": "Meaning of ElSoLu"
+    },
+    {
+      "name": "NaRa",
+      "meaning": "Meaning of ElTi"
+    },
+    {
+      "name": "MeTiLu",
+      "meaning": "Meaning of SoElKa"
+    },
+    {
+      "name": "JoKaMe",
+      "meaning": "Meaning of MiSoNa"
+    },
+    {
+      "name": "KaRoDa",
+      "meaning": "Meaning of RoRoRa"
+    },
+    {
+      "name": "ElTi",
+      "meaning": "Meaning of ElLu"
+    },
+    {
+      "name": "NaRoKa",
+      "meaning": "Meaning of ElMeLu"
+    },
+    {
+      "name": "JoRa",
+      "meaning": "Meaning of ElDaRa"
+    },
+    {
+      "name": "ViMi",
+      "meaning": "Meaning of KaJoDa"
+    },
+    {
+      "name": "RoDa",
+      "meaning": "Meaning of DaLuLu"
+    },
+    {
+      "name": "RaDaLu",
+      "meaning": "Meaning of RaLu"
+    },
+    {
+      "name": "ZiZiTi",
+      "meaning": "Meaning of NaLi"
+    },
+    {
+      "name": "TiVi",
+      "meaning": "Meaning of NaTi"
+    },
+    {
+      "name": "ZiTi",
+      "meaning": "Meaning of MiLi"
+    },
+    {
+      "name": "ElViNa",
+      "meaning": "Meaning of MiZi"
+    },
+    {
+      "name": "RoLiRo",
+      "meaning": "Meaning of MiMe"
+    },
+    {
+      "name": "LiMi",
+      "meaning": "Meaning of NaTiKa"
+    },
+    {
+      "name": "TiMeDa",
+      "meaning": "Meaning of DaLu"
+    },
+    {
+      "name": "JoMeRo",
+      "meaning": "Meaning of NaNa"
+    },
+    {
+      "name": "LiMe",
+      "meaning": "Meaning of ZiSo"
+    },
+    {
+      "name": "ZiTi",
+      "meaning": "Meaning of MiJo"
+    },
+    {
+      "name": "ElDa",
+      "meaning": "Meaning of DaLi"
+    },
+    {
+      "name": "SoMeSo",
+      "meaning": "Meaning of ElKa"
+    },
+    {
+      "name": "RaLiJo",
+      "meaning": "Meaning of KaLi"
+    },
+    {
+      "name": "ViTi",
+      "meaning": "Meaning of SoRaRo"
+    },
+    {
+      "name": "TiVi",
+      "meaning": "Meaning of MiTi"
+    },
+    {
+      "name": "DaJoRa",
+      "meaning": "Meaning of MiNa"
+    },
+    {
+      "name": "MiKaMe",
+      "meaning": "Meaning of LuVi"
+    },
+    {
+      "name": "ViNa",
+      "meaning": "Meaning of RaRaMe"
+    },
+    {
+      "name": "TiEl",
+      "meaning": "Meaning of ViKaMe"
+    },
+    {
+      "name": "MeRaMi",
+      "meaning": "Meaning of MeLiTi"
+    },
+    {
+      "name": "SoMiKa",
+      "meaning": "Meaning of NaLuMi"
+    },
+    {
+      "name": "ElNa",
+      "meaning": "Meaning of ViKaTi"
+    },
+    {
+      "name": "DaTiVi",
+      "meaning": "Meaning of KaNa"
+    },
+    {
+      "name": "ZiEl",
+      "meaning": "Meaning of RaVi"
+    },
+    {
+      "name": "SoDa",
+      "meaning": "Meaning of ZiTiSo"
+    },
+    {
+      "name": "RaElRa",
+      "meaning": "Meaning of LuRo"
+    },
+    {
+      "name": "LuRa",
+      "meaning": "Meaning of DaMi"
+    },
+    {
+      "name": "TiJo",
+      "meaning": "Meaning of SoNaMe"
+    },
+    {
+      "name": "TiMeZi",
+      "meaning": "Meaning of DaRo"
+    },
+    {
+      "name": "RoSo",
+      "meaning": "Meaning of JoJo"
+    },
+    {
+      "name": "ElMiMe",
+      "meaning": "Meaning of MeEl"
+    },
+    {
+      "name": "LuKaLu",
+      "meaning": "Meaning of NaKa"
+    },
+    {
+      "name": "RoMeRo",
+      "meaning": "Meaning of SoSo"
+    },
+    {
+      "name": "ZiEl",
+      "meaning": "Meaning of JoSoLu"
+    },
+    {
+      "name": "RoSoSo",
+      "meaning": "Meaning of LuSo"
+    },
+    {
+      "name": "LuMiTi",
+      "meaning": "Meaning of TiDaLu"
+    },
+    {
+      "name": "ViKaVi",
+      "meaning": "Meaning of RoViDa"
+    },
+    {
+      "name": "RaZi",
+      "meaning": "Meaning of RaRa"
+    },
+    {
+      "name": "DaViJo",
+      "meaning": "Meaning of ZiZiNa"
+    },
+    {
+      "name": "JoMeDa",
+      "meaning": "Meaning of TiRa"
+    },
+    {
+      "name": "LuEl",
+      "meaning": "Meaning of RaZiDa"
+    },
+    {
+      "name": "KaZiRa",
+      "meaning": "Meaning of TiNaNa"
+    },
+    {
+      "name": "TiVi",
+      "meaning": "Meaning of MeRaLi"
+    },
+    {
+      "name": "DaMi",
+      "meaning": "Meaning of LiZiEl"
+    },
+    {
+      "name": "SoZi",
+      "meaning": "Meaning of LiMe"
+    },
+    {
+      "name": "RoLu",
+      "meaning": "Meaning of LiMi"
+    },
+    {
+      "name": "ElNaEl",
+      "meaning": "Meaning of MiElDa"
+    },
+    {
+      "name": "SoZiRo",
+      "meaning": "Meaning of RoSoJo"
+    },
+    {
+      "name": "ZiViMe",
+      "meaning": "Meaning of MeZi"
+    },
+    {
+      "name": "DaLiMi",
+      "meaning": "Meaning of DaMeTi"
+    },
+    {
+      "name": "NaDa",
+      "meaning": "Meaning of SoLiKa"
+    },
+    {
+      "name": "MeRo",
+      "meaning": "Meaning of MiRoNa"
+    },
+    {
+      "name": "LiRo",
+      "meaning": "Meaning of ZiTiMe"
+    },
+    {
+      "name": "LuLu",
+      "meaning": "Meaning of LuRa"
+    },
+    {
+      "name": "KaMe",
+      "meaning": "Meaning of ViLuMe"
+    },
+    {
+      "name": "ElTiRa",
+      "meaning": "Meaning of ZiJoLi"
+    },
+    {
+      "name": "MiLi",
+      "meaning": "Meaning of DaJoZi"
+    },
+    {
+      "name": "DaNa",
+      "meaning": "Meaning of TiViZi"
+    },
+    {
+      "name": "SoLi",
+      "meaning": "Meaning of JoLu"
+    },
+    {
+      "name": "KaVi",
+      "meaning": "Meaning of LiDa"
+    },
+    {
+      "name": "KaZi",
+      "meaning": "Meaning of MeZi"
+    },
+    {
+      "name": "TiViEl",
+      "meaning": "Meaning of ViLi"
+    },
+    {
+      "name": "TiViVi",
+      "meaning": "Meaning of JoSoTi"
+    },
+    {
+      "name": "SoSoMi",
+      "meaning": "Meaning of MeRaDa"
+    },
+    {
+      "name": "MeNaSo",
+      "meaning": "Meaning of RoDaMe"
+    },
+    {
+      "name": "LiEl",
+      "meaning": "Meaning of DaTi"
+    },
+    {
+      "name": "DaZiDa",
+      "meaning": "Meaning of MiVi"
+    },
+    {
+      "name": "KaLi",
+      "meaning": "Meaning of KaEl"
+    },
+    {
+      "name": "MeLi",
+      "meaning": "Meaning of RoLiTi"
+    },
+    {
+      "name": "ZiKa",
+      "meaning": "Meaning of RoTi"
+    },
+    {
+      "name": "SoRo",
+      "meaning": "Meaning of TiNaEl"
+    },
+    {
+      "name": "NaDaEl",
+      "meaning": "Meaning of KaLuEl"
+    },
+    {
+      "name": "DaZiDa",
+      "meaning": "Meaning of MeRaTi"
+    },
+    {
+      "name": "RoDa",
+      "meaning": "Meaning of RaKa"
+    },
+    {
+      "name": "ViKaRo",
+      "meaning": "Meaning of RaLuMe"
+    },
+    {
+      "name": "RoMeKa",
+      "meaning": "Meaning of ViRaZi"
+    },
+    {
+      "name": "LuMe",
+      "meaning": "Meaning of MiLu"
+    },
+    {
+      "name": "ViTi",
+      "meaning": "Meaning of LuDaLu"
+    },
+    {
+      "name": "ElLuEl",
+      "meaning": "Meaning of MiViJo"
+    },
+    {
+      "name": "RaZiRa",
+      "meaning": "Meaning of DaDa"
+    },
+    {
+      "name": "NaZi",
+      "meaning": "Meaning of KaTiTi"
+    },
+    {
+      "name": "DaElKa",
+      "meaning": "Meaning of DaZiTi"
+    },
+    {
+      "name": "DaDa",
+      "meaning": "Meaning of TiMi"
+    },
+    {
+      "name": "MeVi",
+      "meaning": "Meaning of ViNa"
+    },
+    {
+      "name": "NaJoRa",
+      "meaning": "Meaning of KaZiSo"
+    },
+    {
+      "name": "SoRa",
+      "meaning": "Meaning of KaRaKa"
+    },
+    {
+      "name": "ViEl",
+      "meaning": "Meaning of MeKa"
+    },
+    {
+      "name": "ZiZi",
+      "meaning": "Meaning of TiViEl"
+    },
+    {
+      "name": "ViTi",
+      "meaning": "Meaning of NaTiSo"
+    },
+    {
+      "name": "SoSo",
+      "meaning": "Meaning of ElZi"
+    },
+    {
+      "name": "JoMi",
+      "meaning": "Meaning of RoLuEl"
+    },
+    {
+      "name": "RaZiJo",
+      "meaning": "Meaning of ZiRo"
+    },
+    {
+      "name": "RaSo",
+      "meaning": "Meaning of DaEl"
+    },
+    {
+      "name": "RoKaNa",
+      "meaning": "Meaning of DaLu"
+    },
+    {
+      "name": "ViJoRo",
+      "meaning": "Meaning of ElSoTi"
+    },
+    {
+      "name": "DaZi",
+      "meaning": "Meaning of SoViSo"
+    },
+    {
+      "name": "RoRoLu",
+      "meaning": "Meaning of MeLuLu"
+    },
+    {
+      "name": "JoJoSo",
+      "meaning": "Meaning of RoMiDa"
+    },
+    {
+      "name": "MeRaZi",
+      "meaning": "Meaning of MiRo"
+    },
+    {
+      "name": "TiVi",
+      "meaning": "Meaning of NaLu"
+    },
+    {
+      "name": "KaMe",
+      "meaning": "Meaning of MiElLi"
+    },
+    {
+      "name": "NaZi",
+      "meaning": "Meaning of DaMe"
+    },
+    {
+      "name": "RaRaTi",
+      "meaning": "Meaning of RaLu"
+    },
+    {
+      "name": "MiKa",
+      "meaning": "Meaning of RoKaLi"
+    },
+    {
+      "name": "KaZi",
+      "meaning": "Meaning of JoLu"
+    },
+    {
+      "name": "ZiMi",
+      "meaning": "Meaning of ViJoVi"
+    },
+    {
+      "name": "DaKa",
+      "meaning": "Meaning of DaRo"
+    },
+    {
+      "name": "MeMeSo",
+      "meaning": "Meaning of LuMeMi"
+    },
+    {
+      "name": "RaZi",
+      "meaning": "Meaning of LuDaKa"
+    },
+    {
+      "name": "LiMe",
+      "meaning": "Meaning of DaDaZi"
+    },
+    {
+      "name": "JoRa",
+      "meaning": "Meaning of DaEl"
+    },
+    {
+      "name": "JoTi",
+      "meaning": "Meaning of LuSo"
+    },
+    {
+      "name": "DaTi",
+      "meaning": "Meaning of ElMiZi"
+    },
+    {
+      "name": "ViTi",
+      "meaning": "Meaning of ViDaMi"
+    },
+    {
+      "name": "LuRa",
+      "meaning": "Meaning of JoVi"
+    },
+    {
+      "name": "SoTiLi",
+      "meaning": "Meaning of RaNa"
+    },
+    {
+      "name": "DaTiMi",
+      "meaning": "Meaning of RaMi"
+    },
+    {
+      "name": "ZiKaLi",
+      "meaning": "Meaning of KaMiJo"
+    },
+    {
+      "name": "NaLiRo",
+      "meaning": "Meaning of ElRaJo"
+    },
+    {
+      "name": "KaViZi",
+      "meaning": "Meaning of RaElRo"
+    },
+    {
+      "name": "MiKaKa",
+      "meaning": "Meaning of KaMiMi"
+    },
+    {
+      "name": "RaLi",
+      "meaning": "Meaning of ElVi"
+    },
+    {
+      "name": "LuSo",
+      "meaning": "Meaning of RaVi"
+    },
+    {
+      "name": "RoTi",
+      "meaning": "Meaning of LiLi"
+    },
+    {
+      "name": "NaRoRa",
+      "meaning": "Meaning of LiSoTi"
+    },
+    {
+      "name": "NaJoZi",
+      "meaning": "Meaning of MeEl"
+    },
+    {
+      "name": "SoNa",
+      "meaning": "Meaning of RoZiDa"
+    },
+    {
+      "name": "NaRoSo",
+      "meaning": "Meaning of LiNaMi"
+    },
+    {
+      "name": "JoLu",
+      "meaning": "Meaning of JoMeTi"
+    },
+    {
+      "name": "MeSoLu",
+      "meaning": "Meaning of RoTiMe"
+    },
+    {
+      "name": "MiKaRa",
+      "meaning": "Meaning of ViRa"
+    },
+    {
+      "name": "MeVi",
+      "meaning": "Meaning of LuRo"
+    },
+    {
+      "name": "LiZiVi",
+      "meaning": "Meaning of SoRoSo"
+    },
+    {
+      "name": "JoNaMi",
+      "meaning": "Meaning of MiLuTi"
+    },
+    {
+      "name": "ViKaRo",
+      "meaning": "Meaning of JoKaRo"
+    },
+    {
+      "name": "TiJoTi",
+      "meaning": "Meaning of SoKaMe"
+    },
+    {
+      "name": "NaTiSo",
+      "meaning": "Meaning of MiZiRo"
+    },
+    {
+      "name": "ViMe",
+      "meaning": "Meaning of LuRo"
+    },
+    {
+      "name": "LiJoNa",
+      "meaning": "Meaning of SoKaDa"
+    },
+    {
+      "name": "DaViDa",
+      "meaning": "Meaning of SoRo"
+    },
+    {
+      "name": "MeRaMi",
+      "meaning": "Meaning of TiRo"
+    },
+    {
+      "name": "LuRo",
+      "meaning": "Meaning of DaZiZi"
+    },
+    {
+      "name": "RoTiLi",
+      "meaning": "Meaning of SoNaRo"
+    },
+    {
+      "name": "ElJoDa",
+      "meaning": "Meaning of MiNa"
+    },
+    {
+      "name": "KaTi",
+      "meaning": "Meaning of SoMi"
+    },
+    {
+      "name": "NaLuEl",
+      "meaning": "Meaning of MeElMi"
+    },
+    {
+      "name": "SoEl",
+      "meaning": "Meaning of ElZiVi"
+    },
+    {
+      "name": "RoLu",
+      "meaning": "Meaning of ElJo"
+    },
+    {
+      "name": "TiJo",
+      "meaning": "Meaning of TiKaEl"
+    },
+    {
+      "name": "RaLuLi",
+      "meaning": "Meaning of JoMiTi"
+    },
+    {
+      "name": "LiMe",
+      "meaning": "Meaning of RoDaDa"
+    },
+    {
+      "name": "NaLiLu",
+      "meaning": "Meaning of ZiSoZi"
+    },
+    {
+      "name": "KaSo",
+      "meaning": "Meaning of MeRa"
+    },
+    {
+      "name": "TiRaJo",
+      "meaning": "Meaning of NaRaLu"
+    },
+    {
+      "name": "KaLu",
+      "meaning": "Meaning of TiKaKa"
+    },
+    {
+      "name": "ZiLuMi",
+      "meaning": "Meaning of KaSoSo"
+    },
+    {
+      "name": "SoMi",
+      "meaning": "Meaning of NaRo"
+    },
+    {
+      "name": "KaTi",
+      "meaning": "Meaning of RoVi"
+    },
+    {
+      "name": "DaLi",
+      "meaning": "Meaning of JoLuMe"
+    },
+    {
+      "name": "TiJo",
+      "meaning": "Meaning of KaNa"
+    },
+    {
+      "name": "DaNaSo",
+      "meaning": "Meaning of JoLuRo"
+    },
+    {
+      "name": "LiRo",
+      "meaning": "Meaning of MiZi"
+    },
+    {
+      "name": "KaDaZi",
+      "meaning": "Meaning of LuNa"
+    },
+    {
+      "name": "JoEl",
+      "meaning": "Meaning of DaZiMe"
+    },
+    {
+      "name": "RoTiVi",
+      "meaning": "Meaning of LuJoJo"
+    },
+    {
+      "name": "ViTi",
+      "meaning": "Meaning of RaElNa"
+    },
+    {
+      "name": "ZiDaVi",
+      "meaning": "Meaning of LuElLi"
+    },
+    {
+      "name": "ElViRa",
+      "meaning": "Meaning of LiRaKa"
+    },
+    {
+      "name": "RoMeZi",
+      "meaning": "Meaning of SoMiMe"
+    },
+    {
+      "name": "LuRo",
+      "meaning": "Meaning of NaVi"
+    },
+    {
+      "name": "DaKaMe",
+      "meaning": "Meaning of DaKa"
+    },
+    {
+      "name": "ViLuMe",
+      "meaning": "Meaning of ZiKaMi"
+    },
+    {
+      "name": "NaDaMi",
+      "meaning": "Meaning of MeEl"
+    },
+    {
+      "name": "LuKa",
+      "meaning": "Meaning of ZiJoLi"
+    },
+    {
+      "name": "ElMe",
+      "meaning": "Meaning of RaRaMe"
+    },
+    {
+      "name": "KaRo",
+      "meaning": "Meaning of RoJo"
+    },
+    {
+      "name": "LiNa",
+      "meaning": "Meaning of SoMe"
+    },
+    {
+      "name": "SoTiRo",
+      "meaning": "Meaning of TiLuKa"
+    },
+    {
+      "name": "ViViLu",
+      "meaning": "Meaning of KaEl"
+    },
+    {
+      "name": "JoElMi",
+      "meaning": "Meaning of ViViLu"
+    },
+    {
+      "name": "SoRo",
+      "meaning": "Meaning of MeZi"
+    },
+    {
+      "name": "LuSoMe",
+      "meaning": "Meaning of LiJoEl"
+    },
+    {
+      "name": "RaSo",
+      "meaning": "Meaning of NaTiKa"
+    },
+    {
+      "name": "ZiNa",
+      "meaning": "Meaning of MeTi"
+    },
+    {
+      "name": "ElMeJo",
+      "meaning": "Meaning of MiNaVi"
+    },
+    {
+      "name": "RoTi",
+      "meaning": "Meaning of MeMe"
+    },
+    {
+      "name": "JoRaMe",
+      "meaning": "Meaning of RoTi"
+    },
+    {
+      "name": "ViDaEl",
+      "meaning": "Meaning of JoZiSo"
+    },
+    {
+      "name": "KaViKa",
+      "meaning": "Meaning of RaVi"
+    },
+    {
+      "name": "ZiRaMe",
+      "meaning": "Meaning of NaJoDa"
+    },
+    {
+      "name": "RaLuVi",
+      "meaning": "Meaning of ViLuMe"
+    },
+    {
+      "name": "MiRaVi",
+      "meaning": "Meaning of ZiMeJo"
+    },
+    {
+      "name": "DaMi",
+      "meaning": "Meaning of LiLiMi"
+    },
+    {
+      "name": "MeJo",
+      "meaning": "Meaning of MeEl"
+    },
+    {
+      "name": "KaSo",
+      "meaning": "Meaning of ZiMe"
+    },
+    {
+      "name": "TiLuRa",
+      "meaning": "Meaning of SoViLu"
+    },
+    {
+      "name": "NaJo",
+      "meaning": "Meaning of MeNa"
+    },
+    {
+      "name": "ElViTi",
+      "meaning": "Meaning of NaNaVi"
+    },
+    {
+      "name": "TiDa",
+      "meaning": "Meaning of ZiJoKa"
+    },
+    {
+      "name": "LuZiKa",
+      "meaning": "Meaning of ElElLu"
+    },
+    {
+      "name": "DaNaJo",
+      "meaning": "Meaning of DaSo"
+    },
+    {
+      "name": "RoMe",
+      "meaning": "Meaning of ZiMi"
+    },
+    {
+      "name": "RoElLu",
+      "meaning": "Meaning of LuRaJo"
+    },
+    {
+      "name": "ElMe",
+      "meaning": "Meaning of ViVi"
+    },
+    {
+      "name": "ViRo",
+      "meaning": "Meaning of ViDa"
+    },
+    {
+      "name": "MeZi",
+      "meaning": "Meaning of ViSo"
+    },
+    {
+      "name": "SoLuZi",
+      "meaning": "Meaning of LuJoVi"
+    },
+    {
+      "name": "ElKaDa",
+      "meaning": "Meaning of TiRaMi"
+    },
+    {
+      "name": "DaRoVi",
+      "meaning": "Meaning of JoRaLu"
+    },
+    {
+      "name": "RaKa",
+      "meaning": "Meaning of SoLi"
+    },
+    {
+      "name": "RaSo",
+      "meaning": "Meaning of RoZiZi"
+    },
+    {
+      "name": "MeKa",
+      "meaning": "Meaning of LuMe"
+    },
+    {
+      "name": "ElRa",
+      "meaning": "Meaning of ElNaRa"
+    },
+    {
+      "name": "SoLu",
+      "meaning": "Meaning of RoDaDa"
+    },
+    {
+      "name": "RaKaTi",
+      "meaning": "Meaning of KaMeVi"
+    },
+    {
+      "name": "MeMeSo",
+      "meaning": "Meaning of ElLiNa"
+    },
+    {
+      "name": "DaLiSo",
+      "meaning": "Meaning of RaSoJo"
+    },
+    {
+      "name": "LuRaSo",
+      "meaning": "Meaning of ZiEl"
+    },
+    {
+      "name": "JoJo",
+      "meaning": "Meaning of NaRaLi"
+    },
+    {
+      "name": "ViLi",
+      "meaning": "Meaning of DaLiRa"
+    },
+    {
+      "name": "MiZi",
+      "meaning": "Meaning of ElLuKa"
+    },
+    {
+      "name": "RaZi",
+      "meaning": "Meaning of NaLi"
+    },
+    {
+      "name": "ElMe",
+      "meaning": "Meaning of RoJoJo"
+    },
+    {
+      "name": "KaSoEl",
+      "meaning": "Meaning of ElNaSo"
+    },
+    {
+      "name": "RaSo",
+      "meaning": "Meaning of NaVi"
+    },
+    {
+      "name": "NaSo",
+      "meaning": "Meaning of RaDa"
+    },
+    {
+      "name": "LuMiTi",
+      "meaning": "Meaning of SoDaRo"
+    },
+    {
+      "name": "RoSoRa",
+      "meaning": "Meaning of DaRo"
+    },
+    {
+      "name": "KaMeLu",
+      "meaning": "Meaning of JoRa"
+    },
+    {
+      "name": "TiTi",
+      "meaning": "Meaning of DaSoRa"
+    }
+  ],
+  "girl": [
+    {
+      "name": "ElLu",
+      "meaning": "Meaning of MiDa"
+    },
+    {
+      "name": "MeMeMi",
+      "meaning": "Meaning of MiZi"
+    },
+    {
+      "name": "RoElEl",
+      "meaning": "Meaning of KaElLi"
+    },
+    {
+      "name": "NaSo",
+      "meaning": "Meaning of ZiLiEl"
+    },
+    {
+      "name": "ElRo",
+      "meaning": "Meaning of RaRa"
+    },
+    {
+      "name": "MeJoEl",
+      "meaning": "Meaning of MiMe"
+    },
+    {
+      "name": "DaRaRo",
+      "meaning": "Meaning of LuSoKa"
+    },
+    {
+      "name": "LuNaLi",
+      "meaning": "Meaning of ViLi"
+    },
+    {
+      "name": "TiLiVi",
+      "meaning": "Meaning of MeDaRa"
+    },
+    {
+      "name": "ViKaVi",
+      "meaning": "Meaning of ViElSo"
+    },
+    {
+      "name": "LiTiLu",
+      "meaning": "Meaning of NaLuRo"
+    },
+    {
+      "name": "RaNaSo",
+      "meaning": "Meaning of LuTiDa"
+    },
+    {
+      "name": "RoVi",
+      "meaning": "Meaning of RoDa"
+    },
+    {
+      "name": "MeRo",
+      "meaning": "Meaning of MiNa"
+    },
+    {
+      "name": "TiRo",
+      "meaning": "Meaning of JoTiZi"
+    },
+    {
+      "name": "NaZiVi",
+      "meaning": "Meaning of ViLuRo"
+    },
+    {
+      "name": "LiRoLu",
+      "meaning": "Meaning of TiRa"
+    },
+    {
+      "name": "LuRaEl",
+      "meaning": "Meaning of SoTi"
+    },
+    {
+      "name": "KaRaSo",
+      "meaning": "Meaning of MiNa"
+    },
+    {
+      "name": "SoRa",
+      "meaning": "Meaning of NaViTi"
+    },
+    {
+      "name": "ZiNa",
+      "meaning": "Meaning of MiMeKa"
+    },
+    {
+      "name": "DaRaSo",
+      "meaning": "Meaning of JoLi"
+    },
+    {
+      "name": "RaZiSo",
+      "meaning": "Meaning of ElLuLi"
+    },
+    {
+      "name": "KaRaJo",
+      "meaning": "Meaning of LiMiJo"
+    },
+    {
+      "name": "MiJoNa",
+      "meaning": "Meaning of ElZi"
+    },
+    {
+      "name": "MiRo",
+      "meaning": "Meaning of NaRa"
+    },
+    {
+      "name": "LiMeMe",
+      "meaning": "Meaning of NaSoMi"
+    },
+    {
+      "name": "RoJoMe",
+      "meaning": "Meaning of RoRoLu"
+    },
+    {
+      "name": "LuDa",
+      "meaning": "Meaning of TiZiRo"
+    },
+    {
+      "name": "KaNaMe",
+      "meaning": "Meaning of JoSoRa"
+    },
+    {
+      "name": "ViJo",
+      "meaning": "Meaning of DaKa"
+    },
+    {
+      "name": "LuNaJo",
+      "meaning": "Meaning of DaLiMi"
+    },
+    {
+      "name": "MeZi",
+      "meaning": "Meaning of TiLi"
+    },
+    {
+      "name": "KaLi",
+      "meaning": "Meaning of NaSo"
+    },
+    {
+      "name": "LiViVi",
+      "meaning": "Meaning of LuSoLi"
+    },
+    {
+      "name": "MiNa",
+      "meaning": "Meaning of NaViNa"
+    },
+    {
+      "name": "ZiDaMi",
+      "meaning": "Meaning of ElKa"
+    },
+    {
+      "name": "ViTiTi",
+      "meaning": "Meaning of ElKa"
+    },
+    {
+      "name": "ElRoZi",
+      "meaning": "Meaning of ZiEl"
+    },
+    {
+      "name": "MiKaRo",
+      "meaning": "Meaning of ViEl"
+    },
+    {
+      "name": "ViMi",
+      "meaning": "Meaning of ZiViMi"
+    },
+    {
+      "name": "DaDaDa",
+      "meaning": "Meaning of SoLuRa"
+    },
+    {
+      "name": "ViRoMi",
+      "meaning": "Meaning of ZiNa"
+    },
+    {
+      "name": "NaTiLi",
+      "meaning": "Meaning of ZiZiLu"
+    },
+    {
+      "name": "DaRaJo",
+      "meaning": "Meaning of ZiJo"
+    },
+    {
+      "name": "JoNaZi",
+      "meaning": "Meaning of DaNa"
+    },
+    {
+      "name": "ViNaRo",
+      "meaning": "Meaning of RaMiDa"
+    },
+    {
+      "name": "MiEl",
+      "meaning": "Meaning of JoSo"
+    },
+    {
+      "name": "SoLi",
+      "meaning": "Meaning of ViNaMe"
+    },
+    {
+      "name": "SoNaZi",
+      "meaning": "Meaning of ZiZiRo"
+    },
+    {
+      "name": "SoRaKa",
+      "meaning": "Meaning of SoMi"
+    },
+    {
+      "name": "ViLu",
+      "meaning": "Meaning of ViZi"
+    },
+    {
+      "name": "DaSoSo",
+      "meaning": "Meaning of NaJoLi"
+    },
+    {
+      "name": "SoRaZi",
+      "meaning": "Meaning of TiJo"
+    },
+    {
+      "name": "ElMe",
+      "meaning": "Meaning of KaMe"
+    },
+    {
+      "name": "RoKa",
+      "meaning": "Meaning of MeRo"
+    },
+    {
+      "name": "NaSo",
+      "meaning": "Meaning of SoJoMe"
+    },
+    {
+      "name": "ZiDaLu",
+      "meaning": "Meaning of KaDaNa"
+    },
+    {
+      "name": "KaLiMi",
+      "meaning": "Meaning of ElKa"
+    },
+    {
+      "name": "TiLi",
+      "meaning": "Meaning of JoZiJo"
+    },
+    {
+      "name": "SoSoLu",
+      "meaning": "Meaning of DaTi"
+    },
+    {
+      "name": "TiRoVi",
+      "meaning": "Meaning of ElKa"
+    },
+    {
+      "name": "NaDa",
+      "meaning": "Meaning of MeLu"
+    },
+    {
+      "name": "MeMe",
+      "meaning": "Meaning of TiRoVi"
+    },
+    {
+      "name": "JoRa",
+      "meaning": "Meaning of SoMi"
+    },
+    {
+      "name": "RoKaRa",
+      "meaning": "Meaning of DaJo"
+    },
+    {
+      "name": "ViLi",
+      "meaning": "Meaning of ZiDa"
+    },
+    {
+      "name": "JoRo",
+      "meaning": "Meaning of ViLi"
+    },
+    {
+      "name": "JoRoZi",
+      "meaning": "Meaning of JoDaMe"
+    },
+    {
+      "name": "ElLuEl",
+      "meaning": "Meaning of ViLi"
+    },
+    {
+      "name": "LiRo",
+      "meaning": "Meaning of MiKaEl"
+    },
+    {
+      "name": "NaRa",
+      "meaning": "Meaning of ElMe"
+    },
+    {
+      "name": "RaMe",
+      "meaning": "Meaning of KaRo"
+    },
+    {
+      "name": "KaViJo",
+      "meaning": "Meaning of ElDa"
+    },
+    {
+      "name": "MiMiLu",
+      "meaning": "Meaning of KaRaMe"
+    },
+    {
+      "name": "SoMeZi",
+      "meaning": "Meaning of DaDa"
+    },
+    {
+      "name": "RaMe",
+      "meaning": "Meaning of RoRa"
+    },
+    {
+      "name": "ViRo",
+      "meaning": "Meaning of DaViDa"
+    },
+    {
+      "name": "MeNa",
+      "meaning": "Meaning of MiMi"
+    },
+    {
+      "name": "ElNaDa",
+      "meaning": "Meaning of JoMe"
+    },
+    {
+      "name": "NaNa",
+      "meaning": "Meaning of RaTi"
+    },
+    {
+      "name": "LuTi",
+      "meaning": "Meaning of ElMe"
+    },
+    {
+      "name": "RaJoMe",
+      "meaning": "Meaning of MeVi"
+    },
+    {
+      "name": "JoZi",
+      "meaning": "Meaning of ElMi"
+    },
+    {
+      "name": "JoJoRa",
+      "meaning": "Meaning of RaLiMi"
+    },
+    {
+      "name": "RoElTi",
+      "meaning": "Meaning of ElSoMi"
+    },
+    {
+      "name": "TiDa",
+      "meaning": "Meaning of RaMe"
+    },
+    {
+      "name": "JoMiDa",
+      "meaning": "Meaning of MiSoSo"
+    },
+    {
+      "name": "NaMe",
+      "meaning": "Meaning of SoTi"
+    },
+    {
+      "name": "NaDaLi",
+      "meaning": "Meaning of KaMeSo"
+    },
+    {
+      "name": "ZiNaNa",
+      "meaning": "Meaning of KaTi"
+    },
+    {
+      "name": "LuEl",
+      "meaning": "Meaning of RaRoEl"
+    },
+    {
+      "name": "TiSo",
+      "meaning": "Meaning of RoJoRa"
+    },
+    {
+      "name": "RoLuMi",
+      "meaning": "Meaning of KaTi"
+    },
+    {
+      "name": "RoZi",
+      "meaning": "Meaning of KaLuJo"
+    },
+    {
+      "name": "MiKa",
+      "meaning": "Meaning of RoLiLu"
+    },
+    {
+      "name": "DaLuRa",
+      "meaning": "Meaning of MiVi"
+    },
+    {
+      "name": "RaMe",
+      "meaning": "Meaning of LuLi"
+    },
+    {
+      "name": "DaMiJo",
+      "meaning": "Meaning of JoSoMi"
+    },
+    {
+      "name": "DaLuRa",
+      "meaning": "Meaning of RoMe"
+    },
+    {
+      "name": "JoZi",
+      "meaning": "Meaning of SoRo"
+    },
+    {
+      "name": "NaElKa",
+      "meaning": "Meaning of SoLi"
+    },
+    {
+      "name": "ViJo",
+      "meaning": "Meaning of NaDaLu"
+    },
+    {
+      "name": "RaJoMe",
+      "meaning": "Meaning of DaViKa"
+    },
+    {
+      "name": "MeSo",
+      "meaning": "Meaning of NaKa"
+    },
+    {
+      "name": "ZiDa",
+      "meaning": "Meaning of LiRo"
+    },
+    {
+      "name": "LuZi",
+      "meaning": "Meaning of ViRaZi"
+    },
+    {
+      "name": "RoJoRa",
+      "meaning": "Meaning of ViTi"
+    },
+    {
+      "name": "MeJo",
+      "meaning": "Meaning of DaLi"
+    },
+    {
+      "name": "KaMeRo",
+      "meaning": "Meaning of JoLu"
+    },
+    {
+      "name": "KaElLi",
+      "meaning": "Meaning of MiElLu"
+    },
+    {
+      "name": "ViDaMi",
+      "meaning": "Meaning of MiTi"
+    },
+    {
+      "name": "ZiSo",
+      "meaning": "Meaning of MiRaRo"
+    },
+    {
+      "name": "NaVi",
+      "meaning": "Meaning of RoKaVi"
+    },
+    {
+      "name": "DaTi",
+      "meaning": "Meaning of RaKa"
+    },
+    {
+      "name": "RoMeSo",
+      "meaning": "Meaning of LiMe"
+    },
+    {
+      "name": "JoMeJo",
+      "meaning": "Meaning of LuViZi"
+    },
+    {
+      "name": "JoSo",
+      "meaning": "Meaning of RaRoVi"
+    },
+    {
+      "name": "NaRaRa",
+      "meaning": "Meaning of LiTi"
+    },
+    {
+      "name": "KaZiMi",
+      "meaning": "Meaning of KaEl"
+    },
+    {
+      "name": "NaEl",
+      "meaning": "Meaning of SoLi"
+    },
+    {
+      "name": "JoElMi",
+      "meaning": "Meaning of LuElJo"
+    },
+    {
+      "name": "RaLuNa",
+      "meaning": "Meaning of ZiSoTi"
+    },
+    {
+      "name": "JoDaKa",
+      "meaning": "Meaning of KaMeNa"
+    },
+    {
+      "name": "ZiSoRo",
+      "meaning": "Meaning of KaSo"
+    },
+    {
+      "name": "LuDaSo",
+      "meaning": "Meaning of NaMiRa"
+    },
+    {
+      "name": "KaRa",
+      "meaning": "Meaning of ElDaKa"
+    },
+    {
+      "name": "NaLi",
+      "meaning": "Meaning of SoNaLu"
+    },
+    {
+      "name": "ElElRo",
+      "meaning": "Meaning of ViLu"
+    },
+    {
+      "name": "ElRa",
+      "meaning": "Meaning of DaLuMe"
+    },
+    {
+      "name": "MeRaTi",
+      "meaning": "Meaning of ElJoSo"
+    },
+    {
+      "name": "ZiViTi",
+      "meaning": "Meaning of RaKaJo"
+    },
+    {
+      "name": "ZiLiRo",
+      "meaning": "Meaning of JoRo"
+    },
+    {
+      "name": "SoMeSo",
+      "meaning": "Meaning of SoEl"
+    },
+    {
+      "name": "LuDaTi",
+      "meaning": "Meaning of JoDaMe"
+    },
+    {
+      "name": "NaZiSo",
+      "meaning": "Meaning of DaKaDa"
+    },
+    {
+      "name": "ViElEl",
+      "meaning": "Meaning of RaKaRa"
+    },
+    {
+      "name": "ElMi",
+      "meaning": "Meaning of ElKa"
+    },
+    {
+      "name": "NaElRa",
+      "meaning": "Meaning of LuTiDa"
+    },
+    {
+      "name": "ElRo",
+      "meaning": "Meaning of SoJo"
+    },
+    {
+      "name": "NaRo",
+      "meaning": "Meaning of LiVi"
+    },
+    {
+      "name": "TiJo",
+      "meaning": "Meaning of SoDaNa"
+    },
+    {
+      "name": "NaEl",
+      "meaning": "Meaning of JoDaTi"
+    },
+    {
+      "name": "LiKa",
+      "meaning": "Meaning of TiLu"
+    },
+    {
+      "name": "DaRo",
+      "meaning": "Meaning of LuVi"
+    },
+    {
+      "name": "ElVi",
+      "meaning": "Meaning of LuRaRa"
+    },
+    {
+      "name": "ZiDaLi",
+      "meaning": "Meaning of ViLi"
+    },
+    {
+      "name": "RaMeKa",
+      "meaning": "Meaning of NaKaMe"
+    },
+    {
+      "name": "LiTiSo",
+      "meaning": "Meaning of SoSoRa"
+    },
+    {
+      "name": "MiViMi",
+      "meaning": "Meaning of SoJoJo"
+    },
+    {
+      "name": "LiZiEl",
+      "meaning": "Meaning of MeNa"
+    },
+    {
+      "name": "DaNaLi",
+      "meaning": "Meaning of TiMiDa"
+    },
+    {
+      "name": "JoMiNa",
+      "meaning": "Meaning of SoLi"
+    },
+    {
+      "name": "RaMe",
+      "meaning": "Meaning of MiSo"
+    },
+    {
+      "name": "MeVi",
+      "meaning": "Meaning of MiVi"
+    },
+    {
+      "name": "ZiNaVi",
+      "meaning": "Meaning of DaLiZi"
+    },
+    {
+      "name": "RaRaDa",
+      "meaning": "Meaning of DaKa"
+    },
+    {
+      "name": "ViLuTi",
+      "meaning": "Meaning of KaMeVi"
+    },
+    {
+      "name": "ElZiEl",
+      "meaning": "Meaning of LiMi"
+    },
+    {
+      "name": "SoEl",
+      "meaning": "Meaning of ElMeLi"
+    },
+    {
+      "name": "LiSoRo",
+      "meaning": "Meaning of JoJo"
+    },
+    {
+      "name": "ViNa",
+      "meaning": "Meaning of ZiViZi"
+    },
+    {
+      "name": "ViZi",
+      "meaning": "Meaning of NaTi"
+    },
+    {
+      "name": "RaZiMi",
+      "meaning": "Meaning of ViNaVi"
+    },
+    {
+      "name": "RaLu",
+      "meaning": "Meaning of ViJoDa"
+    },
+    {
+      "name": "LuKa",
+      "meaning": "Meaning of TiTi"
+    },
+    {
+      "name": "RoRo",
+      "meaning": "Meaning of RaKa"
+    },
+    {
+      "name": "ElElKa",
+      "meaning": "Meaning of ZiDaLu"
+    },
+    {
+      "name": "RaTi",
+      "meaning": "Meaning of SoRa"
+    },
+    {
+      "name": "MiRa",
+      "meaning": "Meaning of DaKaTi"
+    },
+    {
+      "name": "TiLu",
+      "meaning": "Meaning of MeMi"
+    },
+    {
+      "name": "KaJo",
+      "meaning": "Meaning of RaKa"
+    },
+    {
+      "name": "MiTiJo",
+      "meaning": "Meaning of NaJoJo"
+    },
+    {
+      "name": "ZiNaJo",
+      "meaning": "Meaning of ViNa"
+    },
+    {
+      "name": "MiElRo",
+      "meaning": "Meaning of LuLi"
+    },
+    {
+      "name": "LiSoRa",
+      "meaning": "Meaning of LiRa"
+    },
+    {
+      "name": "ElLi",
+      "meaning": "Meaning of RaDa"
+    },
+    {
+      "name": "KaTiLi",
+      "meaning": "Meaning of RoSo"
+    },
+    {
+      "name": "KaViTi",
+      "meaning": "Meaning of DaEl"
+    },
+    {
+      "name": "LuNaTi",
+      "meaning": "Meaning of MiRo"
+    },
+    {
+      "name": "SoMi",
+      "meaning": "Meaning of DaSoLu"
+    },
+    {
+      "name": "JoKaDa",
+      "meaning": "Meaning of LiLu"
+    },
+    {
+      "name": "KaTi",
+      "meaning": "Meaning of LiMeSo"
+    },
+    {
+      "name": "NaMeJo",
+      "meaning": "Meaning of ZiNa"
+    },
+    {
+      "name": "LiElTi",
+      "meaning": "Meaning of TiEl"
+    },
+    {
+      "name": "LuSoVi",
+      "meaning": "Meaning of ViLuMi"
+    },
+    {
+      "name": "MeRoSo",
+      "meaning": "Meaning of RaTi"
+    },
+    {
+      "name": "NaDaLu",
+      "meaning": "Meaning of LuVi"
+    },
+    {
+      "name": "ViZi",
+      "meaning": "Meaning of JoNaZi"
+    },
+    {
+      "name": "MiLu",
+      "meaning": "Meaning of RoZiTi"
+    },
+    {
+      "name": "TiRaSo",
+      "meaning": "Meaning of DaMe"
+    },
+    {
+      "name": "NaNaMi",
+      "meaning": "Meaning of DaSoEl"
+    },
+    {
+      "name": "LiEl",
+      "meaning": "Meaning of MeDa"
+    },
+    {
+      "name": "ZiTi",
+      "meaning": "Meaning of RaKa"
+    },
+    {
+      "name": "LiDa",
+      "meaning": "Meaning of ZiKaMi"
+    },
+    {
+      "name": "NaNa",
+      "meaning": "Meaning of SoLu"
+    },
+    {
+      "name": "ViRa",
+      "meaning": "Meaning of RaLiVi"
+    },
+    {
+      "name": "NaNa",
+      "meaning": "Meaning of ViLi"
+    },
+    {
+      "name": "RaTi",
+      "meaning": "Meaning of LiZi"
+    },
+    {
+      "name": "RoRaZi",
+      "meaning": "Meaning of RoKa"
+    },
+    {
+      "name": "RoLi",
+      "meaning": "Meaning of ZiEl"
+    },
+    {
+      "name": "RaZi",
+      "meaning": "Meaning of SoEl"
+    },
+    {
+      "name": "JoDaZi",
+      "meaning": "Meaning of ElEl"
+    },
+    {
+      "name": "NaSo",
+      "meaning": "Meaning of NaKaRo"
+    },
+    {
+      "name": "ZiNaNa",
+      "meaning": "Meaning of TiElEl"
+    },
+    {
+      "name": "MiEl",
+      "meaning": "Meaning of ViLu"
+    },
+    {
+      "name": "SoRoZi",
+      "meaning": "Meaning of KaZiRa"
+    },
+    {
+      "name": "MiMiMi",
+      "meaning": "Meaning of ViSo"
+    },
+    {
+      "name": "MeEl",
+      "meaning": "Meaning of MeKa"
+    },
+    {
+      "name": "ViKa",
+      "meaning": "Meaning of NaNaSo"
+    },
+    {
+      "name": "MiViMe",
+      "meaning": "Meaning of MiKaKa"
+    },
+    {
+      "name": "RaDaRo",
+      "meaning": "Meaning of ViDaEl"
+    },
+    {
+      "name": "KaDaMi",
+      "meaning": "Meaning of SoMi"
+    },
+    {
+      "name": "KaMiSo",
+      "meaning": "Meaning of MeNa"
+    },
+    {
+      "name": "ZiViRo",
+      "meaning": "Meaning of TiSoSo"
+    },
+    {
+      "name": "KaDaNa",
+      "meaning": "Meaning of RoLu"
+    },
+    {
+      "name": "JoJo",
+      "meaning": "Meaning of JoMe"
+    },
+    {
+      "name": "ZiDaNa",
+      "meaning": "Meaning of MiRo"
+    },
+    {
+      "name": "DaZiEl",
+      "meaning": "Meaning of MeViJo"
+    },
+    {
+      "name": "SoNa",
+      "meaning": "Meaning of ViRo"
+    },
+    {
+      "name": "KaZiMi",
+      "meaning": "Meaning of LiNa"
+    },
+    {
+      "name": "ElViMi",
+      "meaning": "Meaning of SoElVi"
+    },
+    {
+      "name": "MiLuSo",
+      "meaning": "Meaning of KaKa"
+    },
+    {
+      "name": "SoMe",
+      "meaning": "Meaning of MiDa"
+    },
+    {
+      "name": "ElMeRo",
+      "meaning": "Meaning of KaRo"
+    },
+    {
+      "name": "JoRa",
+      "meaning": "Meaning of RoRoTi"
+    },
+    {
+      "name": "SoElKa",
+      "meaning": "Meaning of TiElDa"
+    },
+    {
+      "name": "ZiSo",
+      "meaning": "Meaning of JoEl"
+    },
+    {
+      "name": "TiKaEl",
+      "meaning": "Meaning of LuSo"
+    },
+    {
+      "name": "LuKaKa",
+      "meaning": "Meaning of MiRoSo"
+    },
+    {
+      "name": "MiMeRa",
+      "meaning": "Meaning of TiDaMe"
+    },
+    {
+      "name": "RoMe",
+      "meaning": "Meaning of ViDaNa"
+    },
+    {
+      "name": "TiDa",
+      "meaning": "Meaning of LuJo"
+    },
+    {
+      "name": "ViLiEl",
+      "meaning": "Meaning of RaMi"
+    },
+    {
+      "name": "SoRa",
+      "meaning": "Meaning of LiKa"
+    },
+    {
+      "name": "KaSo",
+      "meaning": "Meaning of NaJo"
+    },
+    {
+      "name": "ViJo",
+      "meaning": "Meaning of DaRoLi"
+    },
+    {
+      "name": "LuLuVi",
+      "meaning": "Meaning of RaMeNa"
+    },
+    {
+      "name": "JoElMi",
+      "meaning": "Meaning of MiLu"
+    },
+    {
+      "name": "RaVi",
+      "meaning": "Meaning of ElJoLu"
+    },
+    {
+      "name": "KaKa",
+      "meaning": "Meaning of NaKa"
+    },
+    {
+      "name": "MeMe",
+      "meaning": "Meaning of RoLu"
+    },
+    {
+      "name": "TiLiEl",
+      "meaning": "Meaning of LuJoJo"
+    },
+    {
+      "name": "MiSo",
+      "meaning": "Meaning of LuZi"
+    },
+    {
+      "name": "MeLu",
+      "meaning": "Meaning of ZiVi"
+    },
+    {
+      "name": "JoVi",
+      "meaning": "Meaning of KaLi"
+    },
+    {
+      "name": "MeLu",
+      "meaning": "Meaning of JoSo"
+    },
+    {
+      "name": "RoTiEl",
+      "meaning": "Meaning of ElRoVi"
+    },
+    {
+      "name": "RoJoMi",
+      "meaning": "Meaning of TiKa"
+    },
+    {
+      "name": "ViRoZi",
+      "meaning": "Meaning of JoNaRo"
+    },
+    {
+      "name": "JoMi",
+      "meaning": "Meaning of LiJo"
+    },
+    {
+      "name": "ZiJoKa",
+      "meaning": "Meaning of TiRaSo"
+    },
+    {
+      "name": "NaRo",
+      "meaning": "Meaning of SoZi"
+    },
+    {
+      "name": "MiSoJo",
+      "meaning": "Meaning of TiRoLi"
+    },
+    {
+      "name": "JoJoNa",
+      "meaning": "Meaning of ZiNa"
+    },
+    {
+      "name": "ZiVi",
+      "meaning": "Meaning of DaTi"
+    },
+    {
+      "name": "LiMe",
+      "meaning": "Meaning of ViKaTi"
+    },
+    {
+      "name": "ZiRa",
+      "meaning": "Meaning of LuElNa"
+    },
+    {
+      "name": "SoRo",
+      "meaning": "Meaning of RoMi"
+    },
+    {
+      "name": "SoMe",
+      "meaning": "Meaning of RaRa"
+    },
+    {
+      "name": "ElMiKa",
+      "meaning": "Meaning of RaJo"
+    },
+    {
+      "name": "NaVi",
+      "meaning": "Meaning of SoRoRo"
+    },
+    {
+      "name": "LiVi",
+      "meaning": "Meaning of NaMeNa"
+    },
+    {
+      "name": "MeRoTi",
+      "meaning": "Meaning of SoMiRo"
+    },
+    {
+      "name": "KaMeTi",
+      "meaning": "Meaning of NaMe"
+    },
+    {
+      "name": "ZiLi",
+      "meaning": "Meaning of ElSo"
+    },
+    {
+      "name": "RoTi",
+      "meaning": "Meaning of ElZi"
+    },
+    {
+      "name": "MeNaMi",
+      "meaning": "Meaning of RoMi"
+    },
+    {
+      "name": "MeJo",
+      "meaning": "Meaning of RaNa"
+    },
+    {
+      "name": "SoElVi",
+      "meaning": "Meaning of LuTi"
+    },
+    {
+      "name": "MeMeJo",
+      "meaning": "Meaning of DaSo"
+    },
+    {
+      "name": "LiSo",
+      "meaning": "Meaning of ZiMe"
+    },
+    {
+      "name": "ElZiJo",
+      "meaning": "Meaning of ZiLiEl"
+    },
+    {
+      "name": "DaTiTi",
+      "meaning": "Meaning of SoRo"
+    },
+    {
+      "name": "ViKaTi",
+      "meaning": "Meaning of KaNaVi"
+    },
+    {
+      "name": "KaZiRo",
+      "meaning": "Meaning of DaJo"
+    },
+    {
+      "name": "NaVi",
+      "meaning": "Meaning of TiRoRa"
+    },
+    {
+      "name": "ElSoZi",
+      "meaning": "Meaning of MeDa"
+    },
+    {
+      "name": "KaElMi",
+      "meaning": "Meaning of LiLi"
+    },
+    {
+      "name": "RaNa",
+      "meaning": "Meaning of DaRa"
+    },
+    {
+      "name": "TiVi",
+      "meaning": "Meaning of RoLiJo"
+    },
+    {
+      "name": "ViKa",
+      "meaning": "Meaning of RoKa"
+    },
+    {
+      "name": "DaLuKa",
+      "meaning": "Meaning of RoZi"
+    },
+    {
+      "name": "KaEl",
+      "meaning": "Meaning of KaLi"
+    },
+    {
+      "name": "TiMe",
+      "meaning": "Meaning of KaTi"
+    },
+    {
+      "name": "DaTi",
+      "meaning": "Meaning of JoRaDa"
+    },
+    {
+      "name": "MiLiDa",
+      "meaning": "Meaning of RaKa"
+    },
+    {
+      "name": "DaJo",
+      "meaning": "Meaning of SoMiKa"
+    },
+    {
+      "name": "ViLiSo",
+      "meaning": "Meaning of MiTi"
+    },
+    {
+      "name": "NaKaMe",
+      "meaning": "Meaning of ViNa"
+    },
+    {
+      "name": "TiZiTi",
+      "meaning": "Meaning of ZiDaDa"
+    },
+    {
+      "name": "KaVi",
+      "meaning": "Meaning of RaMe"
+    },
+    {
+      "name": "LuMeSo",
+      "meaning": "Meaning of ElKaKa"
+    },
+    {
+      "name": "ViMiMi",
+      "meaning": "Meaning of RoJo"
+    },
+    {
+      "name": "RoLuDa",
+      "meaning": "Meaning of KaMi"
+    },
+    {
+      "name": "TiRaSo",
+      "meaning": "Meaning of ElRaNa"
+    },
+    {
+      "name": "LiZi",
+      "meaning": "Meaning of TiRo"
+    },
+    {
+      "name": "RoVi",
+      "meaning": "Meaning of RoElEl"
+    },
+    {
+      "name": "KaMeTi",
+      "meaning": "Meaning of KaZiRa"
+    },
+    {
+      "name": "ElMi",
+      "meaning": "Meaning of LiRa"
+    },
+    {
+      "name": "MiViMi",
+      "meaning": "Meaning of LiLiKa"
+    },
+    {
+      "name": "TiSoLi",
+      "meaning": "Meaning of ElZiTi"
+    },
+    {
+      "name": "MeSoKa",
+      "meaning": "Meaning of TiNaKa"
+    },
+    {
+      "name": "JoRo",
+      "meaning": "Meaning of SoRoRa"
+    },
+    {
+      "name": "SoMeZi",
+      "meaning": "Meaning of KaKaVi"
+    },
+    {
+      "name": "JoLi",
+      "meaning": "Meaning of LuDaKa"
+    },
+    {
+      "name": "NaEl",
+      "meaning": "Meaning of NaZiKa"
+    },
+    {
+      "name": "KaZiRa",
+      "meaning": "Meaning of ZiMi"
+    },
+    {
+      "name": "ZiElEl",
+      "meaning": "Meaning of ElRo"
+    },
+    {
+      "name": "ElJoSo",
+      "meaning": "Meaning of TiNaDa"
+    },
+    {
+      "name": "ViKaSo",
+      "meaning": "Meaning of LuLiZi"
+    },
+    {
+      "name": "ViDaVi",
+      "meaning": "Meaning of SoTiJo"
+    },
+    {
+      "name": "TiLi",
+      "meaning": "Meaning of NaMeLi"
+    },
+    {
+      "name": "KaZi",
+      "meaning": "Meaning of JoLuJo"
+    },
+    {
+      "name": "DaZiEl",
+      "meaning": "Meaning of KaNaLu"
+    },
+    {
+      "name": "RaEl",
+      "meaning": "Meaning of RoMi"
+    },
+    {
+      "name": "ElDaMi",
+      "meaning": "Meaning of ViRo"
+    },
+    {
+      "name": "SoLuSo",
+      "meaning": "Meaning of MeTiDa"
+    },
+    {
+      "name": "LuMi",
+      "meaning": "Meaning of SoLu"
+    },
+    {
+      "name": "LuRoSo",
+      "meaning": "Meaning of JoTiLu"
+    },
+    {
+      "name": "ElSo",
+      "meaning": "Meaning of NaDaTi"
+    },
+    {
+      "name": "ZiVi",
+      "meaning": "Meaning of LiTiMe"
+    },
+    {
+      "name": "KaLi",
+      "meaning": "Meaning of MiKaDa"
+    },
+    {
+      "name": "TiLuMe",
+      "meaning": "Meaning of RaRaEl"
+    },
+    {
+      "name": "RoVi",
+      "meaning": "Meaning of NaNaLi"
+    },
+    {
+      "name": "RoViZi",
+      "meaning": "Meaning of RaRo"
+    },
+    {
+      "name": "RoKaEl",
+      "meaning": "Meaning of LuSo"
+    },
+    {
+      "name": "LuVi",
+      "meaning": "Meaning of SoMeMi"
+    },
+    {
+      "name": "RoViEl",
+      "meaning": "Meaning of LuRaDa"
+    },
+    {
+      "name": "MiRaRo",
+      "meaning": "Meaning of JoJoVi"
+    },
+    {
+      "name": "MeTi",
+      "meaning": "Meaning of ElZiSo"
+    },
+    {
+      "name": "NaNa",
+      "meaning": "Meaning of SoRaJo"
+    },
+    {
+      "name": "MiZiNa",
+      "meaning": "Meaning of MiLi"
+    },
+    {
+      "name": "LiRaTi",
+      "meaning": "Meaning of NaZi"
+    },
+    {
+      "name": "ViRa",
+      "meaning": "Meaning of MeVi"
+    },
+    {
+      "name": "DaMe",
+      "meaning": "Meaning of KaLi"
+    },
+    {
+      "name": "MiDa",
+      "meaning": "Meaning of MeNa"
+    },
+    {
+      "name": "RoEl",
+      "meaning": "Meaning of ViEl"
+    },
+    {
+      "name": "NaSoLi",
+      "meaning": "Meaning of ZiVi"
+    },
+    {
+      "name": "TiVi",
+      "meaning": "Meaning of KaVi"
+    },
+    {
+      "name": "ViEl",
+      "meaning": "Meaning of MeMe"
+    },
+    {
+      "name": "MeViSo",
+      "meaning": "Meaning of LuLiLu"
+    },
+    {
+      "name": "NaTiEl",
+      "meaning": "Meaning of ElMe"
+    },
+    {
+      "name": "RaMi",
+      "meaning": "Meaning of LuViJo"
+    },
+    {
+      "name": "ZiTiRo",
+      "meaning": "Meaning of RoLu"
+    },
+    {
+      "name": "DaDa",
+      "meaning": "Meaning of MiRo"
+    },
+    {
+      "name": "RoTiLi",
+      "meaning": "Meaning of SoViNa"
+    },
+    {
+      "name": "LiNa",
+      "meaning": "Meaning of KaMi"
+    },
+    {
+      "name": "LuSo",
+      "meaning": "Meaning of DaTi"
+    },
+    {
+      "name": "LuNaMi",
+      "meaning": "Meaning of MeKaLu"
+    },
+    {
+      "name": "ViElMi",
+      "meaning": "Meaning of JoMe"
+    },
+    {
+      "name": "TiLu",
+      "meaning": "Meaning of SoVi"
+    },
+    {
+      "name": "SoViLu",
+      "meaning": "Meaning of MiNa"
+    },
+    {
+      "name": "ZiLi",
+      "meaning": "Meaning of TiNa"
+    },
+    {
+      "name": "MiMe",
+      "meaning": "Meaning of NaDa"
+    },
+    {
+      "name": "TiRa",
+      "meaning": "Meaning of MeRoSo"
+    },
+    {
+      "name": "SoZi",
+      "meaning": "Meaning of SoTiLu"
+    },
+    {
+      "name": "MeElTi",
+      "meaning": "Meaning of ElMi"
+    },
+    {
+      "name": "ViSoDa",
+      "meaning": "Meaning of KaTi"
+    },
+    {
+      "name": "LuLiEl",
+      "meaning": "Meaning of ViVi"
+    },
+    {
+      "name": "JoLiJo",
+      "meaning": "Meaning of MiLiJo"
+    },
+    {
+      "name": "LuMi",
+      "meaning": "Meaning of MeLuKa"
+    },
+    {
+      "name": "ViLuRa",
+      "meaning": "Meaning of KaEl"
+    },
+    {
+      "name": "MiKa",
+      "meaning": "Meaning of LiVi"
+    },
+    {
+      "name": "LuLi",
+      "meaning": "Meaning of ElJoSo"
+    },
+    {
+      "name": "RaMiTi",
+      "meaning": "Meaning of ZiJoSo"
+    },
+    {
+      "name": "MeMiNa",
+      "meaning": "Meaning of TiMeNa"
+    },
+    {
+      "name": "MiSoTi",
+      "meaning": "Meaning of ZiMeDa"
+    },
+    {
+      "name": "TiElTi",
+      "meaning": "Meaning of MeEl"
+    },
+    {
+      "name": "RaSoVi",
+      "meaning": "Meaning of SoNaLu"
+    },
+    {
+      "name": "LiMi",
+      "meaning": "Meaning of DaTi"
+    },
+    {
+      "name": "ZiEl",
+      "meaning": "Meaning of RaElJo"
+    },
+    {
+      "name": "JoJoJo",
+      "meaning": "Meaning of LiRa"
+    },
+    {
+      "name": "ElKa",
+      "meaning": "Meaning of MiLiMe"
+    },
+    {
+      "name": "ZiSoZi",
+      "meaning": "Meaning of LuViDa"
+    },
+    {
+      "name": "ViEl",
+      "meaning": "Meaning of KaLuLi"
+    },
+    {
+      "name": "DaRo",
+      "meaning": "Meaning of LiDa"
+    },
+    {
+      "name": "RaJoZi",
+      "meaning": "Meaning of TiTiVi"
+    },
+    {
+      "name": "RaJo",
+      "meaning": "Meaning of TiEl"
+    },
+    {
+      "name": "KaTiNa",
+      "meaning": "Meaning of DaNa"
+    },
+    {
+      "name": "KaKa",
+      "meaning": "Meaning of KaMi"
+    },
+    {
+      "name": "ViLi",
+      "meaning": "Meaning of DaMiTi"
+    },
+    {
+      "name": "DaKa",
+      "meaning": "Meaning of ViLu"
+    },
+    {
+      "name": "JoMe",
+      "meaning": "Meaning of TiViVi"
+    },
+    {
+      "name": "LuLuEl",
+      "meaning": "Meaning of SoLi"
+    },
+    {
+      "name": "ElSo",
+      "meaning": "Meaning of ElKa"
+    },
+    {
+      "name": "LuDaNa",
+      "meaning": "Meaning of SoMiRo"
+    },
+    {
+      "name": "ElTi",
+      "meaning": "Meaning of DaTiRo"
+    },
+    {
+      "name": "JoLu",
+      "meaning": "Meaning of ElMeLi"
+    },
+    {
+      "name": "LiLu",
+      "meaning": "Meaning of DaZiDa"
+    },
+    {
+      "name": "LiZi",
+      "meaning": "Meaning of RaMe"
+    },
+    {
+      "name": "LiRo",
+      "meaning": "Meaning of ZiLi"
+    },
+    {
+      "name": "ViMe",
+      "meaning": "Meaning of MeJo"
+    },
+    {
+      "name": "KaRa",
+      "meaning": "Meaning of MeDaJo"
+    },
+    {
+      "name": "NaRa",
+      "meaning": "Meaning of LiJo"
+    },
+    {
+      "name": "MeLiNa",
+      "meaning": "Meaning of KaLuDa"
+    },
+    {
+      "name": "TiRoEl",
+      "meaning": "Meaning of NaRa"
+    },
+    {
+      "name": "KaSoVi",
+      "meaning": "Meaning of MeMiZi"
+    },
+    {
+      "name": "LuNa",
+      "meaning": "Meaning of ViTi"
+    },
+    {
+      "name": "RoSoSo",
+      "meaning": "Meaning of MeZi"
+    },
+    {
+      "name": "ElDaLi",
+      "meaning": "Meaning of LiMi"
+    },
+    {
+      "name": "MeNaDa",
+      "meaning": "Meaning of JoLu"
+    },
+    {
+      "name": "SoNa",
+      "meaning": "Meaning of LiZiSo"
+    },
+    {
+      "name": "NaDaTi",
+      "meaning": "Meaning of NaNaRa"
+    },
+    {
+      "name": "JoMeTi",
+      "meaning": "Meaning of NaTiLi"
+    },
+    {
+      "name": "LuVi",
+      "meaning": "Meaning of JoKaKa"
+    },
+    {
+      "name": "TiRoLu",
+      "meaning": "Meaning of ElJo"
+    },
+    {
+      "name": "ElZiNa",
+      "meaning": "Meaning of LuLi"
+    },
+    {
+      "name": "ZiLuDa",
+      "meaning": "Meaning of RaTiVi"
+    },
+    {
+      "name": "LiMeDa",
+      "meaning": "Meaning of NaLuMe"
+    },
+    {
+      "name": "RoSo",
+      "meaning": "Meaning of KaDaTi"
+    },
+    {
+      "name": "MiRaVi",
+      "meaning": "Meaning of ElSoJo"
+    },
+    {
+      "name": "ZiMi",
+      "meaning": "Meaning of KaDa"
+    },
+    {
+      "name": "ViMi",
+      "meaning": "Meaning of MeLiTi"
+    },
+    {
+      "name": "NaLu",
+      "meaning": "Meaning of LiLuRo"
+    },
+    {
+      "name": "ViJoZi",
+      "meaning": "Meaning of JoMeTi"
+    },
+    {
+      "name": "RoViMi",
+      "meaning": "Meaning of NaDa"
+    },
+    {
+      "name": "RaMeTi",
+      "meaning": "Meaning of SoLuMe"
+    },
+    {
+      "name": "ZiDa",
+      "meaning": "Meaning of LuSoMi"
+    },
+    {
+      "name": "MeVi",
+      "meaning": "Meaning of ViElEl"
+    },
+    {
+      "name": "SoDaTi",
+      "meaning": "Meaning of LiNaZi"
+    },
+    {
+      "name": "MiZiTi",
+      "meaning": "Meaning of KaSo"
+    },
+    {
+      "name": "LiTi",
+      "meaning": "Meaning of SoKaRo"
+    },
+    {
+      "name": "LuMeTi",
+      "meaning": "Meaning of TiSoLu"
+    },
+    {
+      "name": "ViNa",
+      "meaning": "Meaning of MeSoTi"
+    },
+    {
+      "name": "ZiVi",
+      "meaning": "Meaning of JoJo"
+    },
+    {
+      "name": "JoSo",
+      "meaning": "Meaning of LuNaRo"
+    },
+    {
+      "name": "LuKa",
+      "meaning": "Meaning of LiElSo"
+    },
+    {
+      "name": "RoLu",
+      "meaning": "Meaning of ViJoMi"
+    },
+    {
+      "name": "MiZi",
+      "meaning": "Meaning of TiMe"
+    },
+    {
+      "name": "NaNa",
+      "meaning": "Meaning of MiJoZi"
+    },
+    {
+      "name": "JoRa",
+      "meaning": "Meaning of MeLu"
+    },
+    {
+      "name": "ZiRoNa",
+      "meaning": "Meaning of MiTiRa"
+    },
+    {
+      "name": "NaRo",
+      "meaning": "Meaning of LuKa"
+    },
+    {
+      "name": "TiRo",
+      "meaning": "Meaning of RoKa"
+    },
+    {
+      "name": "KaKaSo",
+      "meaning": "Meaning of ViLu"
+    },
+    {
+      "name": "NaKaJo",
+      "meaning": "Meaning of ZiKa"
+    },
+    {
+      "name": "LiJo",
+      "meaning": "Meaning of TiLuLi"
+    },
+    {
+      "name": "NaTiEl",
+      "meaning": "Meaning of ZiSoSo"
+    },
+    {
+      "name": "LiJo",
+      "meaning": "Meaning of LuRo"
+    },
+    {
+      "name": "ZiSoZi",
+      "meaning": "Meaning of ZiMe"
+    },
+    {
+      "name": "DaJo",
+      "meaning": "Meaning of ZiVi"
+    },
+    {
+      "name": "LuTiKa",
+      "meaning": "Meaning of LiLu"
+    },
+    {
+      "name": "RoJoEl",
+      "meaning": "Meaning of LiVi"
+    },
+    {
+      "name": "ZiSo",
+      "meaning": "Meaning of JoJo"
+    },
+    {
+      "name": "TiMi",
+      "meaning": "Meaning of MeJo"
+    },
+    {
+      "name": "NaVi",
+      "meaning": "Meaning of KaViVi"
+    },
+    {
+      "name": "SoMiMe",
+      "meaning": "Meaning of SoEl"
+    },
+    {
+      "name": "ViTi",
+      "meaning": "Meaning of TiViJo"
+    },
+    {
+      "name": "JoKa",
+      "meaning": "Meaning of MeSo"
+    },
+    {
+      "name": "RaNa",
+      "meaning": "Meaning of ZiZi"
+    },
+    {
+      "name": "ZiVi",
+      "meaning": "Meaning of RoTiLi"
+    },
+    {
+      "name": "KaRo",
+      "meaning": "Meaning of TiZi"
+    },
+    {
+      "name": "RoMiZi",
+      "meaning": "Meaning of ElElMe"
+    },
+    {
+      "name": "DaMe",
+      "meaning": "Meaning of LiNa"
+    },
+    {
+      "name": "LiLiKa",
+      "meaning": "Meaning of ZiRaNa"
+    },
+    {
+      "name": "MiNa",
+      "meaning": "Meaning of ZiRo"
+    },
+    {
+      "name": "JoTiEl",
+      "meaning": "Meaning of LiMeLi"
+    },
+    {
+      "name": "RaJo",
+      "meaning": "Meaning of RoMi"
+    },
+    {
+      "name": "JoDa",
+      "meaning": "Meaning of MiSoLi"
+    },
+    {
+      "name": "MeRoLu",
+      "meaning": "Meaning of JoKa"
+    },
+    {
+      "name": "SoJo",
+      "meaning": "Meaning of ZiRaKa"
+    },
+    {
+      "name": "JoSoTi",
+      "meaning": "Meaning of DaJoTi"
+    },
+    {
+      "name": "MeVi",
+      "meaning": "Meaning of RoRoKa"
+    },
+    {
+      "name": "ZiMe",
+      "meaning": "Meaning of RaTiLi"
+    },
+    {
+      "name": "LiJoVi",
+      "meaning": "Meaning of NaDa"
+    },
+    {
+      "name": "ZiTi",
+      "meaning": "Meaning of MeZi"
+    },
+    {
+      "name": "KaKa",
+      "meaning": "Meaning of RoJoMe"
+    },
+    {
+      "name": "ZiRoKa",
+      "meaning": "Meaning of JoNa"
+    },
+    {
+      "name": "JoZiLi",
+      "meaning": "Meaning of TiLu"
+    },
+    {
+      "name": "ZiKa",
+      "meaning": "Meaning of DaZiJo"
+    },
+    {
+      "name": "JoElTi",
+      "meaning": "Meaning of RaVi"
+    },
+    {
+      "name": "RoMi",
+      "meaning": "Meaning of MiLi"
+    },
+    {
+      "name": "MiJoTi",
+      "meaning": "Meaning of LuNaRo"
+    },
+    {
+      "name": "TiNaJo",
+      "meaning": "Meaning of NaVi"
+    },
+    {
+      "name": "TiMe",
+      "meaning": "Meaning of ViMeRa"
+    },
+    {
+      "name": "RoDa",
+      "meaning": "Meaning of DaLiZi"
+    },
+    {
+      "name": "MiSo",
+      "meaning": "Meaning of KaMiDa"
+    },
+    {
+      "name": "ViDa",
+      "meaning": "Meaning of ZiJoJo"
+    },
+    {
+      "name": "ElMe",
+      "meaning": "Meaning of MiEl"
+    },
+    {
+      "name": "LuLi",
+      "meaning": "Meaning of LuEl"
+    },
+    {
+      "name": "SoTiRo",
+      "meaning": "Meaning of LuLi"
+    },
+    {
+      "name": "SoNa",
+      "meaning": "Meaning of ViSo"
+    },
+    {
+      "name": "JoRo",
+      "meaning": "Meaning of TiSo"
+    },
+    {
+      "name": "LuRo",
+      "meaning": "Meaning of RoLu"
+    },
+    {
+      "name": "NaRaKa",
+      "meaning": "Meaning of LiZi"
+    },
+    {
+      "name": "MeNaJo",
+      "meaning": "Meaning of ViNa"
+    },
+    {
+      "name": "KaDa",
+      "meaning": "Meaning of DaNaRa"
+    },
+    {
+      "name": "MiNa",
+      "meaning": "Meaning of RaRaZi"
+    },
+    {
+      "name": "RaZiRa",
+      "meaning": "Meaning of KaRa"
+    },
+    {
+      "name": "MiLiVi",
+      "meaning": "Meaning of JoRo"
+    },
+    {
+      "name": "ViDa",
+      "meaning": "Meaning of KaEl"
+    },
+    {
+      "name": "ViLi",
+      "meaning": "Meaning of TiRoJo"
+    },
+    {
+      "name": "LiDa",
+      "meaning": "Meaning of ElJoTi"
+    },
+    {
+      "name": "RaMe",
+      "meaning": "Meaning of ZiLuEl"
+    },
+    {
+      "name": "MeRa",
+      "meaning": "Meaning of MiJoDa"
+    },
+    {
+      "name": "SoKa",
+      "meaning": "Meaning of LiNaEl"
+    },
+    {
+      "name": "DaTi",
+      "meaning": "Meaning of LiZiLu"
+    },
+    {
+      "name": "MeRoRa",
+      "meaning": "Meaning of LiVi"
+    },
+    {
+      "name": "KaTi",
+      "meaning": "Meaning of RoSoMi"
+    }
+  ]
+}
